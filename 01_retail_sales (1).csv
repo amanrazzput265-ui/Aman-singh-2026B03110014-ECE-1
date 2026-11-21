@@ -1,0 +1,1213 @@
+Order_ID,Order_Date,Customer_ID,Product,Category,City,Quantity,Unit_Price,Payment_Method,Revenue
+ORD10019,2025-01-01,C1121,Hair Dryer,Beauty,Chennai,1,1461.56,UPI,1461.56
+ORD11184,2025-01-01,C1153,Water Bottle,Home & Kitchen,Hyderabad,2,426.7,Cash on Delivery,853.4
+ORD10429,2025-01-01,C1160,Perfume,Beauty,Delhi,1,1932.76,Debit Card,1932.76
+ORD10585,2025-01-01,C1201,Yoga Mat,Sports & Fitness,Lucknow,1,840.5,Debit Card,840.5
+ORD11019,2025-01-02,C1289,Air Fryer,Home & Kitchen,Delhi,4,5098.03,UPI,20392.12
+ORD10679,2025-01-02,C1057,Office Chair,Books & Stationery,Hyderabad,1,6469.46,Credit Card,6469.46
+ORD10565,2025-01-02,C1005,Smart Watch,Electronics,Lucknow,1,8476.34,Credit Card,8476.34
+ORD10024,2025-01-03,C1257,Saree,Clothing,Delhi,2,2862.88,Cash on Delivery,5725.76
+ORD10807,2025-01-03,C1127,Notebook Pack,Books & Stationery,Delhi,2,194.24,Cash on Delivery,388.48
+ORD10526,2025-01-03,C1164,Air Fryer,Home & Kitchen,Hyderabad,1,5493.65,Net Banking,5493.65
+ORD11172,2025-01-03,C1158,Water Bottle,Home & Kitchen,Chennai,6,456.67,UPI,2740.02
+ORD10106,2025-01-03,C1131,Hair Dryer,Beauty,Ahmedabad,1,1610.08,Cash on Delivery,1610.08
+ORD10423,2025-01-04,C1237,Yoga Mat,Sports & Fitness,Kolkata,2,738.94,UPI,1477.88
+ORD11200,2025-01-05,C1096,Men's T-Shirt,Clothing,Mumbai,2,555.45,UPI,1110.9
+ORD10628,2025-01-05,C1029,Face Wash,Beauty,,5,263.31,UPI,1316.55
+ORD10745,2025-01-05,C1176,Smart Watch,Electronics,Bengaluru,2,7808.95,Debit Card,15617.9
+ORD10894,2025-01-06,C1121,Office Chair,Books & Stationery,Chennai,1,6590.57,Net Banking,6590.57
+ORD10795,2025-01-07,C1090,Women's Kurti,Clothing,Delhi,3,916.46,UPI,2749.38
+ORD10754,2025-01-07,C1121,Saree,Clothing,Chennai,2,2663.35,UPI,5326.7
+ORD10473,2025-01-07,C1081,Cookware Set,Home & Kitchen,Bengaluru,1,2968.29,UPI,2968.29
+ORD10365,2025-01-07,C1126,Men's T-Shirt,Clothing,Mumbai,4,596.25,Wallet,2385.0
+ORD10621,2025-01-08,C1139,Novel,Books & Stationery,Delhi,3,369.22,UPI,1107.66
+ORD10683,2025-01-09,C1050,Winter Jacket,Clothing,Mumbai,1,3327.25,UPI,3327.25
+ORD10064,2025-01-09,C1195,Wireless Earbuds,Electronics,Delhi,2,3640.52,UPI,7281.04
+ORD10737,2025-01-09,C1049,Makeup Kit,Beauty,,3,2100.86,Credit Card,6302.58
+ORD10191,2025-01-10,C1157,Office Chair,Books & Stationery,Chennai,2,6534.91,UPI,13069.82
+ORD10806,2025-01-10,C1041,Yoga Mat,Sports & Fitness,Pune,2,761.03,Wallet,1522.06
+ORD11183,2025-01-10,C1149,Treadmill,Sports & Fitness,Delhi,4,31745.19,UPI,126980.76
+ORD10191,2025-01-10,C1157,Office Chair,Books & Stationery,Chennai,2,6534.91,UPI,13069.82
+ORD10631,2025-01-11,C1184,Notebook Pack,Books & Stationery,Kolkata,2,187.12,UPI,374.24
+ORD10841,2025-01-12,C1016,Jeans,Clothing,Hyderabad,3,1680.18,Credit Card,5040.54
+ORD11114,2025-01-12,C1206,Tablet,Electronics,Delhi,2,23204.91,UPI,46409.82
+ORD11099,2025-01-12,C1081,Smart Watch,Electronics,Bengaluru,4,8165.42,Cash on Delivery,32661.68
+ORD11036,2025-01-12,C1273,Sports Shoes,Clothing,Hyderabad,5,2949.02,UPI,14745.1
+ORD10027,2025-01-13,C1030,Air Fryer,Home & Kitchen,Kolkata,1,5469.89,UPI,5469.89
+ORD10832,2025-01-14,C1085,Wireless Earbuds,Electronics,Delhi,1,3646.73,Cash on Delivery,3646.73
+ORD11070,2025-01-14,C1286,Perfume,Beauty,Delhi,1,1909.05,UPI,1909.05
+ORD10254,2025-01-15,C1279,Tablet,Electronics,Pune,1,23265.74,UPI,23265.74
+ORD10537,2025-01-15,C1293,Vacuum Cleaner,Home & Kitchen,Delhi,1,6631.29,Cash on Delivery,6631.29
+ORD10813,2025-01-15,C1057,Cookware Set,Home & Kitchen,Hyderabad,3,2610.61,Debit Card,7831.83
+ORD11079,2025-01-15,C1203,Air Fryer,Home & Kitchen,Delhi,2,5242.43,UPI,10484.86
+ORD10524,2025-01-15,C1151,Hair Dryer,Beauty,Jaipur,1,1594.84,Credit Card,1594.84
+ORD10335,2025-01-16,C1280,Saree,Clothing,Delhi,2,2782.86,Debit Card,5565.72
+ORD10809,2025-01-17,C1012,Water Bottle,Home & Kitchen,Chennai,1,458.15,UPI,458.15
+ORD10587,2025-01-17,C1223,Men's T-Shirt,Clothing,Ahmedabad,3,639.86,Credit Card,1919.58
+ORD11047,2025-01-18,C1151,Saree,Clothing,Jaipur,1,2989.17,UPI,2989.17
+ORD10981,2025-01-18,C1155,Smart Watch,Electronics,Chennai,1,8233.37,UPI,8233.37
+ORD10060,2025-01-18,C1256,Winter Jacket,Clothing,Pune,2,3331.66,Credit Card,6663.32
+ORD10327,2025-01-18,C1203,Tablet,Electronics,Delhi,3,20418.06,UPI,61254.18
+ORD10799,2025-01-19,C1111,Air Fryer,Home & Kitchen,Mumbai,2,5393.18,Credit Card,10786.36
+ORD10198,2025-01-19,C1076,Wireless Earbuds,Electronics,Mumbai,2,3519.26,UPI,7038.52
+ORD10784,2025-01-19,C1140,Wireless Earbuds,Electronics,Bengaluru,4,3714.68,UPI,14858.72
+ORD11094,2025-01-19,C1033,Office Chair,Books & Stationery,Bengaluru,3,6880.59,Debit Card,20641.77
+ORD10671,2025-01-19,C1156,Cookware Set,Home & Kitchen,Mumbai,2,2793.55,Credit Card,5587.1
+ORD11056,2025-01-20,C1081,Hair Dryer,Beauty,Bengaluru,1,1495.02,Credit Card,1495.02
+ORD10571,2025-01-20,C1165,Perfume,Beauty,Bengaluru,1,1764.3,Cash on Delivery,1764.3
+ORD10872,2025-01-20,C1041,Cookware Set,Home & Kitchen,Pune,2,3075.85,Cash on Delivery,6151.7
+ORD10043,2025-01-20,C1079,Tablet,Electronics,,1,22307.17,Credit Card,22307.17
+ORD10988,2025-01-21,C1153,Bedsheet Set,Home & Kitchen,Hyderabad,2,1610.42,Credit Card,3220.84
+ORD10747,2025-01-21,C1211,Men's T-Shirt,Clothing,Hyderabad,1,564.23,Credit Card,564.23
+ORD10321,2025-01-21,C1268,Face Wash,Beauty,Delhi,4,274.6,Cash on Delivery,1098.4
+ORD10124,2025-01-22,C1072,Cookware Set,Home & Kitchen,Pune,5,3047.83,UPI,15239.15
+ORD10277,2025-01-22,C1112,Saree,Clothing,Mumbai,1,2940.55,UPI,2940.55
+ORD11086,2025-01-22,C1267,Office Chair,Books & Stationery,Delhi,5,7358.19,Net Banking,36790.95
+ORD10158,2025-01-22,C1069,Dumbbell Set,Sports & Fitness,Bengaluru,3,2682.95,Net Banking,8048.85
+ORD10450,2025-01-23,C1052,Jeans,Clothing,Kolkata,3,1665.79,Cash on Delivery,4997.37
+ORD11135,2025-01-23,C1116,Men's T-Shirt,Clothing,Kolkata,1,570.11,Credit Card,570.11
+ORD10765,2025-01-23,C1073,Laptop,Electronics,Mumbai,1,52014.41,UPI,52014.41
+ORD10564,2025-01-23,C1113,Winter Jacket,Clothing,Hyderabad,1,3771.26,Cash on Delivery,3771.26
+ORD10081,2025-01-23,C1026,Office Chair,Books & Stationery,Bengaluru,1,6443.92,UPI,6443.92
+ORD10416,2025-01-24,C1147,Tablet,Electronics,Hyderabad,1,22849.03,UPI,22849.03
+ORD10756,2025-01-24,C1260,Moisturizer,Beauty,Delhi,6,437.58,Cash on Delivery,2625.48
+ORD10670,2025-01-24,C1227,Smart Watch,Electronics,Hyderabad,2,8694.0,Credit Card,17388.0
+ORD10951,2025-01-24,C1246,Air Fryer,Home & Kitchen,Hyderabad,1,5941.26,UPI,5941.26
+ORD10094,2025-01-24,C1108,Bluetooth Speaker,Electronics,Delhi,1,2687.13,Credit Card,2687.13
+ORD10840,2025-01-24,C1046,Bedsheet Set,Home & Kitchen,Bengaluru,3,1446.24,Debit Card,4338.72
+ORD10192,2025-01-24,C1025,Wireless Earbuds,Electronics,Mumbai,1,3633.2,Debit Card,3633.2
+ORD10661,2025-01-25,C1173,Backpack,Books & Stationery,Ahmedabad,1,1426.42,UPI,1426.42
+ORD11057,2025-01-25,C1263,Office Chair,Books & Stationery,Delhi,1,6791.85,Credit Card,6791.85
+ORD10895,2025-01-26,C1201,Cookware Set,Home & Kitchen,Lucknow,2,2677.6,Net Banking,5355.2
+ORD10385,2025-01-27,C1001,Cricket Bat,Sports & Fitness,Bengaluru,1,2391.58,UPI,2391.58
+ORD11130,2025-01-27,C1072,Women's Kurti,Clothing,Pune,3,985.68,Cash on Delivery,2957.04
+ORD10475,2025-01-27,C1159,Dumbbell Set,Sports & Fitness,Kolkata,1,2555.49,Credit Card,2555.49
+ORD10118,2025-01-28,C1125,Treadmill,Sports & Fitness,Bengaluru,1,32708.5,Wallet,32708.5
+ORD10401,2025-01-28,C1086,Treadmill,Sports & Fitness,Chennai,2,32585.27,Cash on Delivery,65170.54
+ORD11046,2025-01-28,C1077,Yoga Mat,Sports & Fitness,Chennai,3,783.11,Credit Card,2349.33
+ORD10734,2025-01-28,C1084,Cookware Set,Home & Kitchen,Delhi,1,2914.14,Credit Card,2914.14
+ORD10546,2025-01-29,C1033,Yoga Mat,Sports & Fitness,Bengaluru,3,767.16,UPI,2301.48
+ORD10017,2025-01-29,C1076,Men's T-Shirt,Clothing,Mumbai,1,655.66,Credit Card,655.66
+ORD10240,2025-01-29,C1208,Men's T-Shirt,Clothing,Delhi,1,572.52,UPI,572.52
+ORD10240,2025-01-29,C1208,Men's T-Shirt,Clothing,Delhi,1,572.52,UPI,572.52
+ORD10414,2025-01-30,C1190,Smartphone,Electronics,Ahmedabad,2,16916.95,Cash on Delivery,33833.9
+ORD10555,2025-01-30,C1055,Hair Dryer,Beauty,Kolkata,3,1520.29,Debit Card,4560.87
+ORD10614,2025-01-31,C1084,Tablet,Electronics,Delhi,3,21133.53,UPI,63400.59
+ORD10206,2025-01-31,C1099,Laptop,Electronics,Ahmedabad,2,51475.18,Credit Card,102950.36
+ORD10611,2025-01-31,C1176,Wireless Earbuds,Electronics,Bengaluru,1,3562.13,UPI,3562.13
+ORD10648,2025-01-31,C1182,Men's T-Shirt,Clothing,Bengaluru,3,586.37,UPI,1759.11
+ORD10181,2025-02-01,C1217,Water Bottle,Home & Kitchen,Delhi,3,453.84,Credit Card,1361.52
+ORD10045,2025-02-01,C1289,Office Chair,Books & Stationery,Delhi,5,7461.11,UPI,37305.55
+ORD10494,2025-02-01,C1035,Sports Shoes,Clothing,Delhi,1,3317.88,UPI,3317.88
+ORD10499,2025-02-02,C1058,Men's T-Shirt,Clothing,Delhi,2,655.02,UPI,1310.04
+ORD11124,2025-02-02,C1154,Women's Kurti,Clothing,Delhi,3,984.28,Net Banking,2952.84
+ORD11196,2025-02-02,C1279,Men's T-Shirt,Clothing,Pune,10,581.44,Debit Card,5814.4
+ORD10836,2025-02-02,C1105,Mixer Grinder,Home & Kitchen,Chennai,1,3415.46,Credit Card,3415.46
+ORD10706,2025-02-03,C1190,Winter Jacket,Clothing,Ahmedabad,3,3449.15,UPI,10347.45
+ORD11147,2025-02-04,C1188,Face Wash,Beauty,Kolkata,1,266.06,Debit Card,266.06
+ORD10356,2025-02-04,C1041,Moisturizer,Beauty,Pune,3,420.84,Cash on Delivery,1262.52
+ORD10531,2025-02-04,C1140,Backpack,Books & Stationery,Bengaluru,1,1321.75,Cash on Delivery,1321.75
+ORD10114,2025-02-04,C1293,Cricket Bat,Sports & Fitness,Delhi,3,2184.38,Debit Card,6553.14
+ORD10482,2025-02-04,C1209,Laptop,Electronics,Bengaluru,1,58562.49,Credit Card,58562.49
+ORD10880,2025-02-05,C1147,Dumbbell Set,Sports & Fitness,Hyderabad,1,2436.21,UPI,2436.21
+ORD10619,2025-02-05,C1121,Smartphone,Electronics,Chennai,1,16579.63,UPI,16579.63
+ORD10929,2025-02-06,C1273,Sports Shoes,Clothing,Hyderabad,1,3008.71,UPI,3008.71
+ORD10418,2025-02-07,C1151,Cookware Set,Home & Kitchen,Jaipur,1,2778.92,Net Banking,2778.92
+ORD10500,2025-02-07,C1191,Smartphone,Electronics,,1,17011.65,Credit Card,17011.65
+ORD10397,2025-02-08,C1121,Men's T-Shirt,Clothing,Chennai,3,572.6,Credit Card,1717.8
+ORD10126,2025-02-08,C1103,Novel,Books & Stationery,Ahmedabad,8,360.92,UPI,2887.36
+ORD10675,2025-02-08,C1194,Treadmill,Sports & Fitness,Delhi,1,34591.11,Credit Card,34591.11
+ORD10172,2025-02-08,C1064,Treadmill,Sports & Fitness,Chennai,1,31353.26,UPI,31353.26
+ORD10275,2025-02-08,C1201,Water Bottle,Home & Kitchen,Lucknow,5,436.13,Debit Card,2180.65
+ORD10457,2025-02-09,C1172,Cricket Bat,Sports & Fitness,Mumbai,1,2175.04,Credit Card,2175.04
+ORD10495,2025-02-09,C1064,Laptop,Electronics,Chennai,3,52360.36,Net Banking,157081.08
+ORD10228,2025-02-10,C1279,Hair Dryer,Beauty,Pune,1,1597.73,Wallet,1597.73
+ORD10456,2025-02-10,C1055,Moisturizer,Beauty,Kolkata,2,427.85,UPI,855.7
+ORD10102,2025-02-10,C1115,Bedsheet Set,Home & Kitchen,Pune,1,1466.59,UPI,1466.59
+ORD10379,2025-02-11,C1202,Treadmill,Sports & Fitness,Bengaluru,2,33557.96,UPI,67115.92
+ORD10822,2025-02-11,C1050,Smart Watch,Electronics,Mumbai,1,8000.85,Debit Card,8000.85
+ORD10808,2025-02-11,C1117,Treadmill,Sports & Fitness,Chennai,1,32485.26,UPI,32485.26
+ORD10374,2025-02-12,C1273,Perfume,Beauty,Hyderabad,1,1961.84,UPI,1961.84
+ORD10912,2025-02-12,C1035,Water Bottle,Home & Kitchen,Delhi,1,443.33,Debit Card,443.33
+ORD10038,2025-02-12,C1241,Tablet,Electronics,Kolkata,3,23819.73,UPI,71459.19
+ORD10095,2025-02-12,C1279,Saree,Clothing,Pune,3,2679.52,UPI,8038.56
+ORD10212,2025-02-13,C1121,Wireless Earbuds,Electronics,Chennai,1,3544.53,Cash on Delivery,3544.53
+ORD10389,2025-02-13,C1147,Bedsheet Set,Home & Kitchen,Hyderabad,1,1498.62,UPI,1498.62
+ORD10759,2025-02-13,C1037,Wireless Earbuds,Electronics,Bengaluru,5,3740.53,Cash on Delivery,18702.65
+ORD10728,2025-02-13,C1167,Men's T-Shirt,Clothing,Kolkata,4,570.2,Credit Card,2280.8
+ORD10448,2025-02-15,C1056,Treadmill,Sports & Fitness,Bengaluru,2,33313.25,Wallet,66626.5
+ORD10788,2025-02-15,C1292,Mixer Grinder,Home & Kitchen,Ahmedabad,1,3112.33,Credit Card,3112.33
+ORD10224,2025-02-16,C1017,Tablet,Electronics,Delhi,1,23913.57,UPI,23913.57
+ORD10210,2025-02-16,C1191,Smartphone,Electronics,,1,18550.61,UPI,18550.61
+ORD11133,2025-02-17,C1269,Smart Watch,Electronics,Delhi,2,8690.38,Net Banking,17380.76
+ORD11029,2025-02-17,C1050,Smart Watch,Electronics,Mumbai,1,8470.65,UPI,8470.65
+ORD10135,2025-02-17,C1081,Wireless Earbuds,Electronics,Bengaluru,4,3690.78,Wallet,14763.12
+ORD10721,2025-02-17,C1201,Smartphone,Electronics,,1,17181.83,UPI,17181.83
+ORD10023,2025-02-17,C1014,Smartphone,Electronics,Bengaluru,1,16590.0,Debit Card,16590.0
+ORD11018,2025-02-18,C1244,Dumbbell Set,Sports & Fitness,Hyderabad,2,2542.32,Debit Card,5084.64
+ORD10557,2025-02-20,C1219,Moisturizer,Beauty,Bengaluru,10,457.89,Credit Card,4578.9
+ORD10532,2025-02-20,C1147,Mixer Grinder,Home & Kitchen,Hyderabad,1,3425.47,Net Banking,3425.47
+ORD10782,2025-02-21,C1085,Smart Watch,Electronics,Delhi,2,7641.01,UPI,15282.02
+ORD10236,2025-02-21,C1195,Smartphone,Electronics,Delhi,1,18219.67,Net Banking,18219.67
+ORD10558,2025-02-21,C1083,Air Fryer,Home & Kitchen,Delhi,1,5205.16,Credit Card,5205.16
+ORD11007,2025-02-21,C1025,Sports Shoes,Clothing,Mumbai,4,3162.27,Cash on Delivery,12649.08
+ORD10053,2025-02-21,C1013,Yoga Mat,Sports & Fitness,Pune,1,815.84,Net Banking,815.84
+ORD10484,2025-02-21,C1041,Water Bottle,Home & Kitchen,Pune,1,451.83,Wallet,451.83
+ORD10881,2025-02-22,C1050,Dumbbell Set,Sports & Fitness,Mumbai,1,2322.8,Debit Card,2322.8
+ORD10905,2025-02-22,C1101,Treadmill,Sports & Fitness,Chennai,1,32068.01,Cash on Delivery,32068.01
+ORD10685,2025-02-22,C1086,Sports Shoes,Clothing,Chennai,1,3160.07,UPI,3160.07
+ORD10292,2025-02-22,C1262,Novel,Books & Stationery,Mumbai,3,356.35,Net Banking,1069.05
+ORD10548,2025-02-23,C1005,Water Bottle,Home & Kitchen,Lucknow,2,471.82,Credit Card,943.64
+ORD10955,2025-02-23,C1064,Vacuum Cleaner,Home & Kitchen,Chennai,1,5981.12,UPI,5981.12
+ORD10377,2025-02-23,C1106,Face Wash,Beauty,Bengaluru,3,238.27,UPI,714.81
+ORD10221,2025-02-23,C1140,Smartphone,Electronics,Bengaluru,1,17670.19,UPI,17670.19
+ORD10471,2025-02-24,C1291,Notebook Pack,Books & Stationery,Delhi,6,192.14,UPI,1152.84
+ORD10338,2025-02-24,C1040,Smartphone,Electronics,Bengaluru,4,16638.5,UPI,66554.0
+ORD10190,2025-02-24,C1097,Water Bottle,Home & Kitchen,Delhi,2,447.07,UPI,894.14
+ORD11199,2025-02-24,C1076,Face Wash,Beauty,Mumbai,5,257.37,Cash on Delivery,1286.85
+ORD10030,2025-02-24,C1165,Smart Watch,Electronics,Bengaluru,5,7383.87,Net Banking,36919.35
+ORD10065,2025-02-25,C1196,Smartphone,Electronics,Hyderabad,1,19348.44,UPI,19348.44
+ORD10723,2025-02-25,C1201,Cookware Set,Home & Kitchen,Lucknow,1,3052.02,UPI,3052.02
+ORD10859,2025-02-25,C1081,Notebook Pack,Books & Stationery,Bengaluru,5,211.11,Wallet,1055.55
+ORD10604,2025-02-26,C1041,Jeans,Clothing,Pune,1,1869.88,UPI,1869.88
+ORD10613,2025-02-26,C1021,Tablet,Electronics,Mumbai,2,23193.94,Debit Card,46387.88
+ORD10578,2025-02-26,C1129,Face Wash,Beauty,Hyderabad,3,230.85,Credit Card,692.55
+ORD10860,2025-02-27,C1093,Smart Watch,Electronics,Bengaluru,2,7556.78,Debit Card,15113.56
+ORD10608,2025-02-27,C1113,Treadmill,Sports & Fitness,Hyderabad,1,31999.55,UPI,31999.55
+ORD10750,2025-02-27,C1241,Jeans,Clothing,Kolkata,4,1721.75,Cash on Delivery,6887.0
+ORD10322,2025-02-28,C1079,Saree,Clothing,Kolkata,1,2902.89,UPI,2902.89
+ORD10509,2025-02-28,C1222,Backpack,Books & Stationery,Chennai,1,1495.03,Net Banking,1495.03
+ORD11098,2025-02-28,C1099,Laptop,Electronics,Ahmedabad,1,59153.24,Credit Card,59153.24
+ORD10073,2025-03-01,C1254,Wireless Earbuds,Electronics,Mumbai,3,3431.76,Cash on Delivery,10295.28
+ORD10256,2025-03-01,C1252,Mixer Grinder,Home & Kitchen,,1,3278.33,Credit Card,3278.33
+ORD11085,2025-03-02,C1295,Vacuum Cleaner,Home & Kitchen,Jaipur,1,6575.56,Credit Card,6575.56
+ORD10208,2025-03-02,C1138,Air Fryer,Home & Kitchen,Kolkata,3,5174.74,UPI,15524.22
+ORD10583,2025-03-02,C1264,Cookware Set,Home & Kitchen,Ahmedabad,2,2621.39,Credit Card,5242.78
+ORD10296,2025-03-03,C1014,Women's Kurti,Clothing,Bengaluru,4,936.12,Debit Card,3744.48
+ORD10729,2025-03-04,C1057,Water Bottle,Home & Kitchen,Hyderabad,1,422.92,Debit Card,422.92
+ORD10283,2025-03-04,C1253,Water Bottle,Home & Kitchen,Mumbai,1,423.68,UPI,423.68
+ORD10884,2025-03-04,C1260,Novel,Books & Stationery,Delhi,2,326.95,Net Banking,653.9
+ORD11180,2025-03-04,C1238,Cookware Set,Home & Kitchen,Delhi,2,2978.78,Debit Card,5957.56
+ORD10214,2025-03-05,C1155,Yoga Mat,Sports & Fitness,Chennai,2,877.26,UPI,1754.52
+ORD10035,2025-03-06,C1201,Saree,Clothing,Lucknow,1,3024.39,Wallet,3024.39
+ORD10340,2025-03-06,C1280,Cookware Set,Home & Kitchen,Delhi,1,2787.72,Wallet,2787.72
+ORD10022,2025-03-06,C1211,Women's Kurti,Clothing,Hyderabad,2,978.72,UPI,1957.44
+ORD10540,2025-03-06,C1099,Bluetooth Speaker,Electronics,Ahmedabad,3,2388.1,UPI,7164.3
+ORD10805,2025-03-07,C1266,Cricket Bat,Sports & Fitness,Mumbai,3,2371.84,UPI,7115.52
+ORD10232,2025-03-07,C1144,Bedsheet Set,Home & Kitchen,Bengaluru,1,1492.79,Credit Card,1492.79
+ORD10504,2025-03-07,C1141,Jeans,Clothing,Bengaluru,1,1830.44,UPI,1830.44
+ORD10074,2025-03-08,C1057,Smartphone,Electronics,Hyderabad,5,17823.8,Credit Card,89119.0
+ORD10472,2025-03-08,C1010,Makeup Kit,Beauty,Bengaluru,1,2111.74,Credit Card,2111.74
+ORD11188,2025-03-08,C1050,Smart Watch,Electronics,Mumbai,1,8433.1,Cash on Delivery,8433.1
+ORD10342,2025-03-08,C1128,Smart Watch,Electronics,Delhi,2,8128.08,UPI,16256.16
+ORD10934,2025-03-08,C1064,Vacuum Cleaner,Home & Kitchen,Chennai,1,6356.48,UPI,6356.48
+ORD10833,2025-03-08,C1076,Wireless Earbuds,Electronics,Mumbai,2,3460.65,Credit Card,6921.3
+ORD10117,2025-03-08,C1253,Treadmill,Sports & Fitness,Mumbai,1,30116.83,Credit Card,30116.83
+ORD11108,2025-03-09,C1284,Tablet,Electronics,Hyderabad,2,22394.67,UPI,44789.34
+ORD11002,2025-03-09,C1016,Cookware Set,Home & Kitchen,Hyderabad,1,2709.22,Wallet,2709.22
+ORD10992,2025-03-09,C1033,Mixer Grinder,Home & Kitchen,Bengaluru,2,3370.11,UPI,6740.22
+ORD10272,2025-03-10,C1299,Makeup Kit,Beauty,Chennai,2,2197.1,UPI,4394.2
+ORD10107,2025-03-10,C1081,Saree,Clothing,Bengaluru,2,2764.02,Cash on Delivery,5528.04
+ORD10343,2025-03-11,C1002,Office Chair,Books & Stationery,Pune,5,7123.65,Debit Card,35618.25
+ORD10512,2025-03-11,C1207,Winter Jacket,Clothing,Chennai,5,3724.05,Debit Card,18620.25
+ORD10925,2025-03-11,C1121,Moisturizer,Beauty,,10,464.09,UPI,4640.9
+ORD10861,2025-03-11,C1247,Hair Dryer,Beauty,Bengaluru,2,1421.99,UPI,2843.98
+ORD10410,2025-03-12,C1260,Sports Shoes,Clothing,Delhi,1,3458.2,Credit Card,3458.2
+ORD11028,2025-03-13,C1129,Bluetooth Speaker,Electronics,Hyderabad,1,2326.62,UPI,2326.62
+ORD10463,2025-03-14,C1163,Face Wash,Beauty,Delhi,3,272.13,Wallet,816.39
+ORD10082,2025-03-14,C1250,Men's T-Shirt,Clothing,Chennai,3,635.66,UPI,1906.98
+ORD10184,2025-03-14,C1285,Laptop,Electronics,Bengaluru,1,56242.83,Debit Card,56242.83
+ORD10146,2025-03-15,C1088,Treadmill,Sports & Fitness,Delhi,2,31425.13,UPI,62850.26
+ORD11155,2025-03-15,C1092,Sports Shoes,Clothing,Bengaluru,1,3270.22,Credit Card,3270.22
+ORD10369,2025-03-15,C1078,Vacuum Cleaner,Home & Kitchen,Hyderabad,1,6077.77,Wallet,6077.77
+ORD10257,2025-03-15,C1027,Perfume,Beauty,Delhi,2,1775.74,UPI,3551.48
+ORD10945,2025-03-16,C1154,Bedsheet Set,Home & Kitchen,Delhi,2,1405.89,Debit Card,2811.78
+ORD10203,2025-03-16,C1112,Cookware Set,Home & Kitchen,Mumbai,2,3064.61,UPI,6129.22
+ORD10572,2025-03-16,C1293,Sports Shoes,Clothing,Delhi,1,3182.9,UPI,3182.9
+ORD10139,2025-03-17,C1108,Face Wash,Beauty,Delhi,1,250.17,Credit Card,250.17
+ORD10672,2025-03-17,C1089,Laptop,Electronics,Bengaluru,5,59675.28,UPI,298376.4
+ORD10085,2025-03-17,C1052,Smart Watch,Electronics,Kolkata,1,7531.23,Cash on Delivery,7531.23
+ORD10598,2025-03-17,C1201,Air Fryer,Home & Kitchen,Lucknow,1,5112.5,UPI,5112.5
+ORD10076,2025-03-17,C1253,Treadmill,Sports & Fitness,Mumbai,1,33261.49,Credit Card,33261.49
+ORD10516,2025-03-18,C1028,Dumbbell Set,Sports & Fitness,Delhi,2,2542.67,UPI,5085.34
+ORD10888,2025-03-18,C1221,Cricket Bat,Sports & Fitness,Bengaluru,2,2349.01,Credit Card,4698.02
+ORD10223,2025-03-18,C1152,Moisturizer,Beauty,Delhi,2,441.66,Debit Card,883.32
+ORD10513,2025-03-19,C1275,Smartphone,Electronics,Bengaluru,2,17471.46,Credit Card,34942.92
+ORD10127,2025-03-20,C1155,Sports Shoes,Clothing,Chennai,3,3161.91,UPI,9485.73
+ORD10763,2025-03-20,C1026,Face Wash,Beauty,Bengaluru,3,265.45,Wallet,796.35
+ORD11004,2025-03-21,C1250,Bedsheet Set,Home & Kitchen,Chennai,4,1587.92,UPI,6351.68
+ORD10698,2025-03-21,C1087,Women's Kurti,Clothing,Bengaluru,10,829.99,UPI,8299.9
+ORD10054,2025-03-22,C1152,Men's T-Shirt,Clothing,Delhi,2,617.68,Wallet,1235.36
+ORD10162,2025-03-23,C1148,Yoga Mat,Sports & Fitness,Bengaluru,3,771.53,Cash on Delivery,2314.59
+ORD10710,2025-03-23,C1033,Bluetooth Speaker,Electronics,Bengaluru,3,2407.09,Credit Card,8275.07
+ORD10099,2025-03-24,C1094,Winter Jacket,Clothing,Mumbai,1,3588.39,UPI,3588.39
+ORD10506,2025-03-24,C1067,Women's Kurti,Clothing,Mumbai,4,901.35,UPI,3605.4
+ORD10147,2025-03-24,C1201,Smart Watch,Electronics,Lucknow,3,7940.15,UPI,23820.45
+ORD10152,2025-03-25,C1056,Saree,Clothing,Bengaluru,1,2952.53,Credit Card,2952.53
+ORD10975,2025-03-26,C1214,Bedsheet Set,Home & Kitchen,Chennai,1,1631.56,Credit Card,1631.56
+ORD10816,2025-03-27,C1157,Mixer Grinder,Home & Kitchen,Chennai,1,3311.69,Cash on Delivery,3311.69
+ORD10269,2025-03-27,C1041,Tablet,Electronics,Pune,4,20506.8,Cash on Delivery,82027.2
+ORD10301,2025-03-27,C1250,Water Bottle,Home & Kitchen,Chennai,1,448.72,Debit Card,448.72
+ORD10255,2025-03-27,C1063,Winter Jacket,Clothing,Kolkata,5,3385.52,Debit Card,16927.6
+ORD10630,2025-03-28,C1230,Tablet,Electronics,Delhi,1,22837.43,Cash on Delivery,22837.43
+ORD10689,2025-03-28,C1147,Men's T-Shirt,Clothing,Hyderabad,3,580.22,UPI,1740.66
+ORD11136,2025-03-28,C1201,Tablet,Electronics,Lucknow,3,23132.89,Cash on Delivery,78463.61
+ORD10712,2025-03-28,C1201,Sports Shoes,Clothing,Lucknow,1,3340.19,Credit Card,3340.19
+ORD10591,2025-03-29,C1216,Air Fryer,Home & Kitchen,Delhi,1,5293.1,UPI,5293.1
+ORD10066,2025-03-29,C1275,Bluetooth Speaker,Electronics,Bengaluru,2,2427.58,Credit Card,4855.16
+ORD11120,2025-03-30,C1077,Sports Shoes,Clothing,Chennai,2,3292.38,Cash on Delivery,6584.76
+ORD10317,2025-03-30,C1234,Backpack,Books & Stationery,Ahmedabad,1,1480.73,UPI,1480.73
+ORD10427,2025-03-31,C1220,Cookware Set,Home & Kitchen,Mumbai,2,2953.86,Credit Card,5907.72
+ORD10464,2025-04-01,C1124,Winter Jacket,Clothing,Delhi,3,3676.58,UPI,11029.74
+ORD10036,2025-04-02,C1276,Smartphone,Electronics,Mumbai,3,17206.52,Credit Card,51619.56
+ORD10983,2025-04-02,C1058,Tablet,Electronics,Delhi,1,23073.74,UPI,23073.74
+ORD10150,2025-04-02,C1253,Perfume,Beauty,Mumbai,1,1906.08,UPI,1906.08
+ORD10092,2025-04-03,C1024,Yoga Mat,Sports & Fitness,Kolkata,8,803.67,Debit Card,6429.36
+ORD10879,2025-04-05,C1019,Wireless Earbuds,Electronics,Chennai,1,3830.45,UPI,3830.45
+ORD10536,2025-04-05,C1050,Smartphone,Electronics,Mumbai,1,16605.67,Net Banking,16605.67
+ORD10329,2025-04-05,C1130,Moisturizer,Beauty,Delhi,4,491.42,Cash on Delivery,1965.68
+ORD10346,2025-04-06,C1295,Laptop,Electronics,Jaipur,1,53021.81,Cash on Delivery,53021.81
+ORD11015,2025-04-06,C1107,Tablet,Electronics,Mumbai,1,21959.23,Net Banking,21959.23
+ORD10903,2025-04-06,C1251,Sports Shoes,Clothing,Pune,2,3455.32,Credit Card,6910.64
+ORD10304,2025-04-07,C1039,Cricket Bat,Sports & Fitness,Chennai,2,2180.19,Cash on Delivery,4360.38
+ORD10445,2025-04-07,C1059,Treadmill,Sports & Fitness,Delhi,1,30264.81,Debit Card,30264.81
+ORD10636,2025-04-07,C1299,Smartphone,Electronics,Chennai,1,18811.92,UPI,18811.92
+ORD10748,2025-04-08,C1180,Men's T-Shirt,Clothing,Jaipur,2,638.07,Debit Card,1276.14
+ORD10713,2025-04-08,C1050,Smartphone,Electronics,Mumbai,1,18923.1,Cash on Delivery,18923.1
+ORD10673,2025-04-08,C1017,Bedsheet Set,Home & Kitchen,Delhi,1,1515.01,Cash on Delivery,1515.01
+ORD11109,2025-04-08,C1152,Saree,Clothing,Delhi,1,3070.14,Credit Card,3070.14
+ORD11089,2025-04-09,C1065,Bluetooth Speaker,Electronics,Hyderabad,1,2580.29,UPI,2580.29
+ORD10659,2025-04-09,C1299,Laptop,Electronics,Chennai,1,54539.71,Cash on Delivery,54539.71
+ORD10032,2025-04-10,C1170,Hair Dryer,Beauty,Mumbai,1,1605.79,Net Banking,1605.79
+ORD11177,2025-04-10,C1218,Bedsheet Set,Home & Kitchen,Ahmedabad,4,1433.16,UPI,5732.64
+ORD10647,2025-04-12,C1075,Perfume,Beauty,Mumbai,1,1707.54,UPI,1707.54
+ORD10278,2025-04-12,C1145,Tablet,Electronics,Mumbai,4,21718.6,UPI,86874.4
+ORD10012,2025-04-12,C1271,Yoga Mat,Sports & Fitness,Delhi,1,844.28,UPI,844.28
+ORD10502,2025-04-13,C1095,Yoga Mat,Sports & Fitness,Chennai,1,877.07,UPI,877.07
+ORD10574,2025-04-13,C1153,Smart Watch,Electronics,Hyderabad,2,8073.74,Cash on Delivery,16147.48
+ORD11067,2025-04-13,C1155,Saree,Clothing,Chennai,3,2925.34,Debit Card,8776.02
+ORD11077,2025-04-14,C1058,Vacuum Cleaner,Home & Kitchen,Delhi,3,6285.67,Cash on Delivery,18857.01
+ORD11173,2025-04-14,C1160,Moisturizer,Beauty,Delhi,1,462.5,Wallet,462.5
+ORD10814,2025-04-14,C1140,Wireless Earbuds,Electronics,Bengaluru,3,3280.33,UPI,9840.99
+ORD10646,2025-04-15,C1262,Treadmill,Sports & Fitness,Mumbai,1,30752.05,Credit Card,30752.05
+ORD10767,2025-04-15,C1266,Cookware Set,Home & Kitchen,Mumbai,3,2952.12,Credit Card,8856.36
+ORD10914,2025-04-15,C1121,Wireless Earbuds,Electronics,Chennai,3,3723.2,UPI,11169.6
+ORD11102,2025-04-16,C1121,Water Bottle,Home & Kitchen,Chennai,8,429.82,Credit Card,3438.56
+ORD10633,2025-04-16,C1121,Jeans,Clothing,Chennai,2,1799.38,Debit Card,3598.76
+ORD10175,2025-04-16,C1050,Women's Kurti,Clothing,Mumbai,1,855.49,Cash on Delivery,855.49
+ORD10364,2025-04-16,C1124,Smart Watch,Electronics,Delhi,2,7748.66,Net Banking,15497.32
+ORD10609,2025-04-16,C1239,Smart Watch,Electronics,Delhi,1,7600.99,Debit Card,7600.99
+ORD10893,2025-04-16,C1258,Laptop,Electronics,Delhi,1,51841.31,UPI,51841.31
+ORD10791,2025-04-17,C1296,Backpack,Books & Stationery,Lucknow,1,1509.12,UPI,1509.12
+ORD10362,2025-04-17,C1279,Face Wash,Beauty,Pune,3,273.89,Net Banking,821.67
+ORD10775,2025-04-17,C1201,Notebook Pack,Books & Stationery,Lucknow,1,190.26,Credit Card,190.26
+ORD10419,2025-04-17,C1295,Dumbbell Set,Sports & Fitness,Jaipur,2,2553.14,UPI,5106.28
+ORD11141,2025-04-18,C1104,Smart Watch,Electronics,Kolkata,4,7937.59,Cash on Delivery,31750.36
+ORD10312,2025-04-18,C1076,Wireless Earbuds,Electronics,Mumbai,5,3624.97,UPI,18124.85
+ORD10186,2025-04-18,C1084,Moisturizer,Beauty,Delhi,1,482.83,UPI,482.83
+ORD10287,2025-04-18,C1099,Women's Kurti,Clothing,Ahmedabad,2,910.58,Credit Card,1821.16
+ORD10726,2025-04-18,C1262,Makeup Kit,Beauty,Mumbai,1,2117.91,Wallet,2117.91
+ORD10262,2025-04-18,C1090,Vacuum Cleaner,Home & Kitchen,Delhi,1,6520.81,Credit Card,6520.81
+ORD10780,2025-04-19,C1157,Office Chair,Books & Stationery,Chennai,1,6967.64,Debit Card,6967.64
+ORD10779,2025-04-19,C1010,Tablet,Electronics,Bengaluru,3,24179.65,UPI,72538.95
+ORD11072,2025-04-19,C1093,Winter Jacket,Clothing,Bengaluru,2,3628.38,Wallet,7256.76
+ORD10415,2025-04-19,C1147,Bedsheet Set,Home & Kitchen,Hyderabad,3,1617.06,Credit Card,4851.18
+ORD11063,2025-04-20,C1285,Laptop,Electronics,Bengaluru,1,56197.81,UPI,56197.81
+ORD10399,2025-04-20,C1093,Vacuum Cleaner,Home & Kitchen,Bengaluru,4,6010.98,Wallet,24043.92
+ORD10889,2025-04-20,C1147,Sports Shoes,Clothing,Hyderabad,3,3500.84,Debit Card,10502.52
+ORD10892,2025-04-21,C1213,Novel,Books & Stationery,Kolkata,1,335.93,Credit Card,335.93
+ORD10103,2025-04-21,C1223,Makeup Kit,Beauty,Ahmedabad,2,2108.96,Cash on Delivery,4217.92
+ORD11119,2025-04-22,C1082,Women's Kurti,Clothing,Pune,2,835.16,UPI,1670.32
+ORD10549,2025-04-22,C1241,Winter Jacket,Clothing,Kolkata,1,3615.29,Cash on Delivery,3615.29
+ORD10977,2025-04-22,C1096,Wireless Earbuds,Electronics,Mumbai,4,3833.03,Credit Card,15332.12
+ORD11008,2025-04-23,C1068,Bedsheet Set,Home & Kitchen,Delhi,1,1414.7,UPI,1414.7
+ORD11074,2025-04-23,C1098,Bluetooth Speaker,Electronics,Delhi,2,2611.93,Debit Card,5223.86
+ORD10539,2025-04-24,C1214,Office Chair,Books & Stationery,Chennai,1,6838.97,Cash on Delivery,6838.97
+ORD11112,2025-04-24,C1025,Mixer Grinder,Home & Kitchen,Mumbai,1,3002.78,Wallet,3002.78
+ORD10420,2025-04-24,C1170,Water Bottle,Home & Kitchen,,1,440.63,UPI,440.63
+ORD10793,2025-04-24,C1016,Novel,Books & Stationery,Hyderabad,5,359.44,UPI,1797.2
+ORD10145,2025-04-26,C1121,Cricket Bat,Sports & Fitness,Chennai,1,2376.4,Debit Card,2376.4
+ORD10890,2025-04-26,C1076,Men's T-Shirt,Clothing,Mumbai,2,638.76,UPI,1277.52
+ORD10963,2025-04-27,C1220,Notebook Pack,Books & Stationery,Mumbai,4,191.49,UPI,765.96
+ORD10477,2025-04-27,C1155,Mixer Grinder,Home & Kitchen,Chennai,2,2961.9,UPI,5923.8
+ORD10336,2025-04-28,C1066,Men's T-Shirt,Clothing,Hyderabad,1,554.19,Credit Card,554.19
+ORD10372,2025-04-28,C1081,Women's Kurti,Clothing,Bengaluru,3,930.46,UPI,2791.38
+ORD10140,2025-04-28,C1093,Winter Jacket,Clothing,Bengaluru,2,3371.78,UPI,6743.56
+ORD10137,2025-04-28,C1048,Makeup Kit,Beauty,Chennai,1,2165.64,UPI,2165.64
+ORD10387,2025-04-28,C1097,Perfume,Beauty,Delhi,1,1660.21,Cash on Delivery,1660.21
+ORD11003,2025-04-29,C1047,Mixer Grinder,Home & Kitchen,Mumbai,2,3165.37,Debit Card,6330.74
+ORD10573,2025-04-30,C1273,Wireless Earbuds,Electronics,,1,3844.89,Debit Card,3844.89
+ORD10455,2025-04-30,C1160,Saree,Clothing,Delhi,1,3018.67,UPI,3018.67
+ORD10057,2025-05-01,C1297,Cricket Bat,Sports & Fitness,Kolkata,1,2277.05,UPI,2277.05
+ORD10783,2025-05-01,C1212,Smartphone,Electronics,Mumbai,1,18527.93,UPI,18527.93
+ORD10350,2025-05-03,C1094,Mixer Grinder,Home & Kitchen,Mumbai,1,3092.12,Debit Card,3092.12
+ORD10411,2025-05-04,C1289,Sports Shoes,Clothing,Delhi,1,3471.27,Net Banking,3471.27
+ORD10811,2025-05-04,C1069,Winter Jacket,Clothing,Bengaluru,1,3768.12,UPI,3768.12
+ORD10177,2025-05-05,C1160,Wireless Earbuds,Electronics,Delhi,1,3793.17,Credit Card,3793.17
+ORD10733,2025-05-05,C1156,Cricket Bat,Sports & Fitness,Mumbai,2,2260.98,Wallet,4521.96
+ORD10986,2025-05-05,C1160,Women's Kurti,Clothing,Delhi,5,929.41,Debit Card,4647.05
+ORD10511,2025-05-06,C1257,Yoga Mat,Sports & Fitness,Delhi,5,814.79,Wallet,4073.95
+ORD10044,2025-05-07,C1077,Yoga Mat,Sports & Fitness,Chennai,1,829.96,Cash on Delivery,829.96
+ORD11022,2025-05-07,C1227,Bedsheet Set,Home & Kitchen,Hyderabad,2,1627.42,Cash on Delivery,3254.84
+ORD11034,2025-05-08,C1123,Yoga Mat,Sports & Fitness,Bengaluru,1,867.62,Net Banking,867.62
+ORD11088,2025-05-08,C1203,Smart Watch,Electronics,Delhi,1,7994.14,Credit Card,7994.14
+ORD10568,2025-05-08,C1072,Air Fryer,Home & Kitchen,,3,5621.69,UPI,16865.07
+ORD10242,2025-05-08,C1153,Wireless Earbuds,Electronics,Hyderabad,1,3421.7,UPI,3421.7
+ORD11034,2025-05-08,C1123,Yoga Mat,Sports & Fitness,Bengaluru,1,867.62,Net Banking,867.62
+ORD10580,2025-05-09,C1121,Laptop,Electronics,Chennai,1,51731.2,Cash on Delivery,51731.2
+ORD10007,2025-05-09,C1259,Perfume,Beauty,Hyderabad,1,1932.3,Debit Card,1932.3
+ORD10013,2025-05-09,C1192,Dumbbell Set,Sports & Fitness,Delhi,2,2634.04,UPI,5268.08
+ORD10061,2025-05-10,C1194,Cricket Bat,Sports & Fitness,Delhi,1,2416.76,Wallet,2416.76
+ORD10961,2025-05-11,C1066,Dumbbell Set,Sports & Fitness,Hyderabad,2,2618.51,Credit Card,5237.02
+ORD10695,2025-05-12,C1158,Yoga Mat,Sports & Fitness,Chennai,4,764.76,Debit Card,3059.04
+ORD10650,2025-05-12,C1050,Cricket Bat,Sports & Fitness,Mumbai,1,2112.68,UPI,2112.68
+ORD10603,2025-05-12,C1050,Office Chair,Books & Stationery,Mumbai,1,7326.87,UPI,7326.87
+ORD10250,2025-05-13,C1175,Winter Jacket,Clothing,Delhi,2,3832.4,UPI,7664.8
+ORD10939,2025-05-13,C1276,Cookware Set,Home & Kitchen,Mumbai,1,2661.19,Wallet,2661.19
+ORD10451,2025-05-13,C1064,Women's Kurti,Clothing,Chennai,1,868.02,UPI,868.02
+ORD10515,2025-05-14,C1216,Tablet,Electronics,Delhi,1,21703.11,Credit Card,21703.11
+ORD10424,2025-05-14,C1090,Makeup Kit,Beauty,Delhi,2,2338.04,Wallet,4676.08
+ORD10556,2025-05-15,C1288,Tablet,Electronics,Hyderabad,2,23774.23,Credit Card,47548.46
+ORD10378,2025-05-15,C1278,Saree,Clothing,Pune,1,2611.4,Wallet,2611.4
+ORD10497,2025-05-16,C1119,Air Fryer,Home & Kitchen,Hyderabad,1,5997.45,UPI,5997.45
+ORD10090,2025-05-16,C1147,Cookware Set,Home & Kitchen,Hyderabad,1,2770.23,Credit Card,2770.23
+ORD11178,2025-05-16,C1002,Yoga Mat,Sports & Fitness,Pune,1,752.16,Wallet,752.16
+ORD10026,2025-05-17,C1247,Mixer Grinder,Home & Kitchen,Bengaluru,1,3511.16,Cash on Delivery,3776.34
+ORD10582,2025-05-17,C1228,Face Wash,Beauty,Chennai,3,260.66,Debit Card,781.98
+ORD10367,2025-05-17,C1225,Women's Kurti,Clothing,Ahmedabad,4,846.45,UPI,3385.8
+ORD10334,2025-05-17,C1149,Hair Dryer,Beauty,Delhi,1,1503.63,UPI,1503.63
+ORD10408,2025-05-17,C1196,Mixer Grinder,Home & Kitchen,,2,3220.83,UPI,6441.66
+ORD10984,2025-05-18,C1011,Water Bottle,Home & Kitchen,Ahmedabad,1,424.99,UPI,424.99
+ORD10901,2025-05-18,C1112,Moisturizer,Beauty,Mumbai,5,452.64,Credit Card,2263.2
+ORD11009,2025-05-18,C1116,Laptop,Electronics,Kolkata,4,59068.79,Wallet,236275.16
+ORD11193,2025-05-18,C1093,Smartphone,Electronics,Bengaluru,1,19766.34,Credit Card,19766.34
+ORD11033,2025-05-18,C1089,Sports Shoes,Clothing,Bengaluru,4,3337.45,Cash on Delivery,13349.8
+ORD10440,2025-05-19,C1125,Makeup Kit,Beauty,Bengaluru,1,2079.62,Credit Card,2079.62
+ORD11194,2025-05-19,C1190,Perfume,Beauty,Ahmedabad,1,1736.27,Wallet,1736.27
+ORD10390,2025-05-19,C1106,Wireless Earbuds,Electronics,Bengaluru,1,3821.09,Net Banking,3821.09
+ORD10978,2025-05-20,C1079,Face Wash,Beauty,Kolkata,2,246.06,UPI,492.12
+ORD10597,2025-05-21,C1126,Jeans,Clothing,Mumbai,1,1741.87,UPI,1741.87
+ORD11131,2025-05-21,C1235,Mixer Grinder,Home & Kitchen,Kolkata,1,3411.69,Net Banking,3411.69
+ORD10267,2025-05-22,C1089,Dumbbell Set,Sports & Fitness,Bengaluru,2,2411.27,Net Banking,4822.54
+ORD10326,2025-05-22,C1076,Smart Watch,Electronics,,1,8218.04,Cash on Delivery,8218.04
+ORD10337,2025-05-22,C1156,Cookware Set,Home & Kitchen,Mumbai,1,2657.58,Credit Card,2657.58
+ORD10459,2025-05-23,C1050,Jeans,Clothing,Mumbai,1,1877.72,Debit Card,1877.72
+ORD10674,2025-05-23,C1279,Vacuum Cleaner,Home & Kitchen,,1,6638.66,Cash on Delivery,6638.66
+ORD10315,2025-05-24,C1158,Sports Shoes,Clothing,Chennai,1,2945.56,UPI,2945.56
+ORD10315,2025-05-24,C1158,Sports Shoes,Clothing,Chennai,1,2945.56,UPI,2945.56
+ORD10844,2025-05-24,C1293,Backpack,Books & Stationery,Delhi,1,1429.3,Net Banking,1429.3
+ORD11160,2025-05-24,C1261,Tablet,Electronics,Pune,4,23517.75,UPI,94071.0
+ORD10928,2025-05-25,C1047,Sports Shoes,Clothing,Mumbai,1,3352.52,UPI,3352.52
+ORD10965,2025-05-26,C1004,Sports Shoes,Clothing,Delhi,1,3137.21,UPI,3137.21
+ORD10641,2025-05-27,C1134,Sports Shoes,Clothing,Hyderabad,3,3102.84,UPI,9308.52
+ORD10008,2025-05-27,C1033,Women's Kurti,Clothing,Bengaluru,1,872.52,Debit Card,872.52
+ORD10307,2025-05-27,C1220,Air Fryer,Home & Kitchen,Mumbai,3,5527.42,Cash on Delivery,16582.26
+ORD10055,2025-05-27,C1279,Office Chair,Books & Stationery,Pune,1,6829.76,UPI,6829.76
+ORD10113,2025-05-28,C1056,Vacuum Cleaner,Home & Kitchen,Bengaluru,1,6230.76,UPI,6230.76
+ORD11190,2025-05-28,C1201,Face Wash,Beauty,Lucknow,1,272.12,UPI,272.12
+ORD10011,2025-05-28,C1186,Men's T-Shirt,Clothing,Bengaluru,2,573.81,Credit Card,1147.62
+ORD10855,2025-05-30,C1133,Bedsheet Set,Home & Kitchen,Mumbai,1,1634.55,Debit Card,1634.55
+ORD11197,2025-05-31,C1026,Jeans,Clothing,Bengaluru,3,1849.42,Wallet,5548.26
+ORD11138,2025-05-31,C1216,Moisturizer,Beauty,Delhi,1,492.13,Credit Card,492.13
+ORD10664,2025-05-31,C1050,Dumbbell Set,Sports & Fitness,Mumbai,1,2400.5,Debit Card,2400.5
+ORD10847,2025-05-31,C1257,Wireless Earbuds,Electronics,Delhi,2,3275.99,Debit Card,6551.98
+ORD10724,2025-05-31,C1000,Men's T-Shirt,Clothing,Kolkata,1,613.89,Credit Card,613.89
+ORD10652,2025-06-01,C1133,Women's Kurti,Clothing,Mumbai,1,924.47,Debit Card,924.47
+ORD10196,2025-06-01,C1020,Women's Kurti,Clothing,Kolkata,1,905.31,Debit Card,905.31
+ORD10253,2025-06-01,C1054,Cricket Bat,Sports & Fitness,Chennai,1,2055.18,UPI,2055.18
+ORD10584,2025-06-02,C1140,Smart Watch,Electronics,Bengaluru,5,7402.67,UPI,37013.35
+ORD10239,2025-06-02,C1093,Tablet,Electronics,Bengaluru,4,23921.34,Credit Card,95685.36
+ORD10503,2025-06-03,C1213,Tablet,Electronics,Kolkata,1,21585.06,Cash on Delivery,21585.06
+ORD10944,2025-06-03,C1275,Sports Shoes,Clothing,Bengaluru,1,3260.82,UPI,3260.82
+ORD10990,2025-06-03,C1276,Water Bottle,Home & Kitchen,Mumbai,3,418.42,Net Banking,1255.26
+ORD11081,2025-06-04,C1024,Yoga Mat,Sports & Fitness,Kolkata,4,740.23,UPI,2960.92
+ORD11092,2025-06-04,C1201,Treadmill,Sports & Fitness,Lucknow,3,29777.19,UPI,89331.57
+ORD10752,2025-06-05,C1265,Yoga Mat,Sports & Fitness,Delhi,3,830.63,Credit Card,2491.89
+ORD10588,2025-06-06,C1050,Air Fryer,Home & Kitchen,,3,5360.41,Cash on Delivery,16081.23
+ORD10819,2025-06-06,C1024,Winter Jacket,Clothing,Kolkata,1,3763.79,Debit Card,3763.79
+ORD11103,2025-06-06,C1167,Saree,Clothing,Kolkata,2,3060.91,Credit Card,6121.82
+ORD10344,2025-06-07,C1165,Smartphone,Electronics,Bengaluru,2,18470.92,Debit Card,36941.84
+ORD10510,2025-06-07,C1081,Bedsheet Set,Home & Kitchen,Bengaluru,1,1450.15,Debit Card,1450.15
+ORD10404,2025-06-07,C1075,Cricket Bat,Sports & Fitness,Mumbai,1,2132.89,Credit Card,2132.89
+ORD10446,2025-06-07,C1203,Men's T-Shirt,Clothing,Delhi,3,618.42,UPI,1855.26
+ORD10817,2025-06-08,C1043,Backpack,Books & Stationery,Mumbai,5,1531.62,Debit Card,7658.1
+ORD10753,2025-06-08,C1223,Cookware Set,Home & Kitchen,Ahmedabad,2,2659.12,Net Banking,5318.24
+ORD10732,2025-06-08,C1174,Office Chair,Books & Stationery,Delhi,1,7176.65,UPI,7176.65
+ORD10084,2025-06-08,C1130,Makeup Kit,Beauty,Delhi,2,2223.65,UPI,4447.3
+ORD10284,2025-06-08,C1159,Bedsheet Set,Home & Kitchen,Kolkata,1,1438.09,Debit Card,1438.09
+ORD10284,2025-06-08,C1159,Bedsheet Set,Home & Kitchen,Kolkata,1,1438.09,Debit Card,1438.09
+ORD10958,2025-06-08,C1067,Mixer Grinder,Home & Kitchen,Mumbai,5,3112.01,Credit Card,15560.05
+ORD10993,2025-06-08,C1056,Yoga Mat,Sports & Fitness,Bengaluru,3,850.83,UPI,2552.49
+ORD10815,2025-06-10,C1293,Moisturizer,Beauty,Delhi,3,423.43,UPI,1270.29
+ORD10980,2025-06-10,C1203,Smart Watch,Electronics,Delhi,2,8632.84,UPI,17265.68
+ORD11045,2025-06-10,C1160,Bluetooth Speaker,Electronics,Delhi,4,2523.61,UPI,10094.44
+ORD10375,2025-06-11,C1231,Hair Dryer,Beauty,Bengaluru,1,1607.63,UPI,1607.63
+ORD10838,2025-06-12,C1177,Tablet,Electronics,Lucknow,5,23952.75,Cash on Delivery,119763.75
+ORD10359,2025-06-12,C1173,Jeans,Clothing,Ahmedabad,3,1742.49,Cash on Delivery,5227.47
+ORD10777,2025-06-12,C1059,Tablet,Electronics,Delhi,1,22269.95,UPI,22269.95
+ORD11037,2025-06-12,C1157,Men's T-Shirt,Clothing,Chennai,4,643.47,UPI,2573.88
+ORD10849,2025-06-12,C1070,Bedsheet Set,Home & Kitchen,Mumbai,2,1511.96,Net Banking,3023.92
+ORD10566,2025-06-13,C1168,Women's Kurti,Clothing,Mumbai,1,857.21,UPI,857.21
+ORD10693,2025-06-14,C1262,Bedsheet Set,Home & Kitchen,Mumbai,3,1616.32,Cash on Delivery,4848.96
+ORD10957,2025-06-14,C1292,Wireless Earbuds,Electronics,Ahmedabad,5,3366.18,UPI,16830.9
+ORD10225,2025-06-15,C1115,Winter Jacket,Clothing,Pune,1,3395.99,UPI,3395.99
+ORD10521,2025-06-15,C1268,Sports Shoes,Clothing,Delhi,3,3491.8,Wallet,10475.4
+ORD10018,2025-06-15,C1041,Mixer Grinder,Home & Kitchen,Pune,1,3124.04,UPI,3124.04
+ORD10843,2025-06-17,C1081,Air Fryer,Home & Kitchen,Bengaluru,2,5118.74,UPI,10237.48
+ORD10481,2025-06-17,C1111,Smartphone,Electronics,Mumbai,1,17933.82,Debit Card,17933.82
+ORD11167,2025-06-17,C1145,Cookware Set,Home & Kitchen,Mumbai,2,3001.22,Credit Card,6002.44
+ORD10991,2025-06-18,C1224,Dumbbell Set,Sports & Fitness,Mumbai,2,2407.74,Debit Card,4815.48
+ORD11122,2025-06-18,C1102,Backpack,Books & Stationery,Mumbai,1,1342.11,Credit Card,1342.11
+ORD10508,2025-06-18,C1041,Water Bottle,Home & Kitchen,Pune,2,442.76,UPI,885.52
+ORD11192,2025-06-18,C1079,Vacuum Cleaner,Home & Kitchen,Kolkata,1,6106.14,Credit Card,6106.14
+ORD10058,2025-06-18,C1185,Jeans,Clothing,Chennai,1,1697.81,Net Banking,1697.81
+ORD11174,2025-06-19,C1291,Novel,Books & Stationery,Delhi,2,340.15,Credit Card,680.3
+ORD10996,2025-06-19,C1042,Sports Shoes,Clothing,Chennai,3,2985.81,Credit Card,8957.43
+ORD11140,2025-06-19,C1168,Treadmill,Sports & Fitness,Mumbai,1,31291.5,Credit Card,31291.5
+ORD10629,2025-06-19,C1121,Smartphone,Electronics,Chennai,1,17936.94,UPI,17936.94
+ORD10792,2025-06-19,C1073,Winter Jacket,Clothing,Mumbai,2,3388.55,Debit Card,6777.1
+ORD10161,2025-06-19,C1165,Tablet,Electronics,Bengaluru,1,22231.38,Cash on Delivery,22231.38
+ORD10865,2025-06-19,C1041,Water Bottle,Home & Kitchen,Pune,1,477.41,Credit Card,477.41
+ORD10592,2025-06-20,C1097,Treadmill,Sports & Fitness,Delhi,1,31943.36,Debit Card,31943.36
+ORD10490,2025-06-20,C1115,Bedsheet Set,Home & Kitchen,Pune,3,1508.12,UPI,4524.36
+ORD11059,2025-06-20,C1250,Vacuum Cleaner,Home & Kitchen,Chennai,1,6371.24,Cash on Delivery,6371.24
+ORD10699,2025-06-20,C1102,Saree,Clothing,Mumbai,2,2750.87,UPI,5501.74
+ORD10968,2025-06-21,C1191,Yoga Mat,Sports & Fitness,Mumbai,1,791.11,UPI,791.11
+ORD11148,2025-06-21,C1040,Smart Watch,Electronics,Bengaluru,3,8346.31,Cash on Delivery,25038.93
+ORD10306,2025-06-21,C1126,Bedsheet Set,Home & Kitchen,Mumbai,2,1506.16,Credit Card,3012.32
+ORD10006,2025-06-22,C1013,Tablet,Electronics,Pune,2,22277.93,Net Banking,44555.86
+ORD10156,2025-06-22,C1285,Jeans,Clothing,Bengaluru,1,1738.53,UPI,1738.53
+ORD10441,2025-06-22,C1239,Notebook Pack,Books & Stationery,Delhi,4,210.83,Cash on Delivery,843.32
+ORD10153,2025-06-23,C1121,Water Bottle,Home & Kitchen,Chennai,10,466.02,Net Banking,4660.2
+ORD11171,2025-06-23,C1280,Laptop,Electronics,Delhi,1,57616.78,Net Banking,57616.78
+ORD10810,2025-06-23,C1186,Bedsheet Set,Home & Kitchen,Bengaluru,3,1598.21,UPI,4794.63
+ORD10959,2025-06-24,C1165,Smartphone,Electronics,Bengaluru,1,19335.81,UPI,19335.81
+ORD10920,2025-06-24,C1050,Water Bottle,Home & Kitchen,Mumbai,3,476.59,Debit Card,1429.77
+ORD10143,2025-06-24,C1140,Notebook Pack,Books & Stationery,Bengaluru,2,186.92,Credit Card,373.84
+ORD10687,2025-06-24,C1278,Wireless Earbuds,Electronics,Pune,3,3368.61,Credit Card,10105.83
+ORD10818,2025-06-26,C1288,Wireless Earbuds,Electronics,Hyderabad,1,3461.07,Cash on Delivery,3461.07
+ORD10774,2025-06-26,C1105,Water Bottle,Home & Kitchen,Chennai,1,478.3,Debit Card,478.3
+ORD10711,2025-06-26,C1121,Yoga Mat,Sports & Fitness,Chennai,2,791.83,UPI,1583.66
+ORD10818,2025-06-26,C1288,Wireless Earbuds,Electronics,Hyderabad,1,3461.07,Cash on Delivery,3461.07
+ORD10766,2025-06-27,C1132,Cricket Bat,Sports & Fitness,Hyderabad,4,2318.88,Credit Card,9275.52
+ORD10665,2025-06-27,C1281,Wireless Earbuds,Electronics,Delhi,1,3482.52,Cash on Delivery,3482.52
+ORD10049,2025-06-27,C1053,Cricket Bat,Sports & Fitness,Chennai,3,2128.76,Credit Card,6386.28
+ORD10478,2025-06-27,C1179,Cricket Bat,Sports & Fitness,Kolkata,1,2271.25,Credit Card,2271.25
+ORD10665,2025-06-27,C1281,Wireless Earbuds,Electronics,Delhi,1,3482.52,Cash on Delivery,3482.52
+ORD11126,2025-06-27,C1113,Smart Watch,Electronics,Hyderabad,4,7934.7,Debit Card,31738.8
+ORD10830,2025-06-28,C1019,Bluetooth Speaker,Electronics,Chennai,1,2387.68,Cash on Delivery,2387.68
+ORD10525,2025-06-28,C1121,Bedsheet Set,Home & Kitchen,Chennai,2,1388.44,UPI,2776.88
+ORD11168,2025-06-28,C1242,Cookware Set,Home & Kitchen,Mumbai,1,2757.86,UPI,2757.86
+ORD11117,2025-06-29,C1107,Vacuum Cleaner,Home & Kitchen,Mumbai,4,6208.59,Debit Card,24834.36
+ORD11017,2025-06-29,C1093,Sports Shoes,Clothing,Bengaluru,1,3225.75,Debit Card,3225.75
+ORD10261,2025-06-29,C1080,Mixer Grinder,Home & Kitchen,Chennai,2,3327.16,Credit Card,6654.32
+ORD10201,2025-06-29,C1177,Yoga Mat,Sports & Fitness,Lucknow,3,747.25,Debit Card,2241.75
+ORD10110,2025-06-29,C1113,Treadmill,Sports & Fitness,Hyderabad,1,32937.54,UPI,32937.54
+ORD10248,2025-06-30,C1190,Cookware Set,Home & Kitchen,Ahmedabad,3,2685.0,UPI,8055.0
+ORD10746,2025-06-30,C1090,Hair Dryer,Beauty,Delhi,1,1587.56,UPI,1587.56
+ORD10453,2025-06-30,C1074,Tablet,Electronics,Delhi,2,23764.46,UPI,47528.92
+ORD10093,2025-07-01,C1062,Laptop,Electronics,Hyderabad,1,52719.51,UPI,52719.51
+ORD11048,2025-07-01,C1156,Moisturizer,Beauty,Mumbai,1,478.27,Wallet,478.27
+ORD10970,2025-07-01,C1043,Saree,Clothing,Mumbai,2,2803.07,UPI,5606.14
+ORD10971,2025-07-01,C1050,Hair Dryer,Beauty,Mumbai,2,1442.84,Debit Card,2885.68
+ORD10299,2025-07-01,C1160,Office Chair,Books & Stationery,Delhi,4,6535.48,Credit Card,26141.92
+ORD11139,2025-07-01,C1113,Laptop,Electronics,Hyderabad,1,57788.76,Cash on Delivery,57788.76
+ORD11021,2025-07-02,C1081,Bedsheet Set,Home & Kitchen,Bengaluru,1,1520.77,Net Banking,1520.77
+ORD10133,2025-07-02,C1113,Jeans,Clothing,,5,1873.68,Cash on Delivery,10854.89
+ORD10909,2025-07-02,C1043,Saree,Clothing,Mumbai,1,2767.03,Credit Card,2767.03
+ORD11065,2025-07-03,C1201,Laptop,Electronics,Lucknow,4,51472.86,UPI,205891.44
+ORD10231,2025-07-03,C1269,Saree,Clothing,Delhi,1,3019.22,UPI,3019.22
+ORD10458,2025-07-04,C1010,Moisturizer,Beauty,Bengaluru,1,448.31,Net Banking,448.31
+ORD10425,2025-07-05,C1156,Sports Shoes,Clothing,Mumbai,1,3262.14,Cash on Delivery,3262.14
+ORD10149,2025-07-05,C1121,Tablet,Electronics,Chennai,1,24059.49,UPI,24059.49
+ORD10020,2025-07-05,C1098,Novel,Books & Stationery,Delhi,2,322.08,Cash on Delivery,644.16
+ORD10856,2025-07-05,C1107,Air Fryer,Home & Kitchen,Mumbai,3,5187.76,UPI,15563.28
+ORD10252,2025-07-05,C1147,Water Bottle,Home & Kitchen,Hyderabad,2,453.37,Debit Card,906.74
+ORD10656,2025-07-06,C1175,Novel,Books & Stationery,Delhi,3,377.38,UPI,1132.14
+ORD10402,2025-07-06,C1005,Tablet,Electronics,Lucknow,1,20578.81,Debit Card,20578.81
+ORD10854,2025-07-06,C1225,Hair Dryer,Beauty,Ahmedabad,4,1588.59,UPI,6354.36
+ORD10835,2025-07-06,C1127,Cookware Set,Home & Kitchen,Delhi,1,2820.71,Net Banking,2820.71
+ORD11164,2025-07-06,C1009,Winter Jacket,Clothing,Bengaluru,3,3480.04,Debit Card,10440.12
+ORD10331,2025-07-06,C1236,Bedsheet Set,Home & Kitchen,Bengaluru,1,1480.36,Credit Card,1480.36
+ORD10701,2025-07-07,C1279,Wireless Earbuds,Electronics,Pune,2,3312.23,UPI,6624.46
+ORD10655,2025-07-07,C1172,Moisturizer,Beauty,Mumbai,2,437.59,Net Banking,875.18
+ORD10885,2025-07-08,C1286,Smartphone,Electronics,Delhi,1,17702.86,Debit Card,17702.86
+ORD10617,2025-07-08,C1146,Dumbbell Set,Sports & Fitness,Mumbai,4,2526.69,UPI,10106.76
+ORD10653,2025-07-08,C1019,Smart Watch,Electronics,Chennai,1,8464.28,Cash on Delivery,8464.28
+ORD10875,2025-07-09,C1005,Perfume,Beauty,Lucknow,3,1707.99,Credit Card,5123.97
+ORD10063,2025-07-09,C1121,Dumbbell Set,Sports & Fitness,Chennai,1,2591.18,UPI,2591.18
+ORD10179,2025-07-09,C1067,Bluetooth Speaker,Electronics,Mumbai,1,2484.07,Cash on Delivery,2484.07
+ORD10193,2025-07-10,C1125,Smartphone,Electronics,Bengaluru,2,17063.49,UPI,34126.98
+ORD10237,2025-07-10,C1214,Dumbbell Set,Sports & Fitness,Chennai,2,2445.47,UPI,4890.94
+ORD10686,2025-07-10,C1135,Bedsheet Set,Home & Kitchen,Delhi,1,1406.67,UPI,1406.67
+ORD10293,2025-07-11,C1001,Laptop,Electronics,Bengaluru,1,51359.73,UPI,51359.73
+ORD10207,2025-07-11,C1256,Face Wash,Beauty,Pune,2,245.08,Wallet,490.16
+ORD10086,2025-07-12,C1192,Winter Jacket,Clothing,Delhi,1,3843.94,Credit Card,3843.94
+ORD10230,2025-07-12,C1018,Smartphone,Electronics,Pune,1,17453.99,UPI,17453.99
+ORD10824,2025-07-13,C1036,Sports Shoes,Clothing,Delhi,1,3107.03,UPI,3107.03
+ORD10668,2025-07-13,C1251,Saree,Clothing,Pune,2,2587.49,UPI,5174.98
+ORD10904,2025-07-13,C1134,Cricket Bat,Sports & Fitness,Hyderabad,2,2374.85,UPI,4749.7
+ORD10663,2025-07-14,C1101,Jeans,Clothing,Chennai,1,1819.03,Credit Card,1819.03
+ORD10794,2025-07-16,C1128,Moisturizer,Beauty,Delhi,2,443.84,UPI,887.68
+ORD10121,2025-07-16,C1136,Vacuum Cleaner,Home & Kitchen,Ahmedabad,2,7117.01,Credit Card,14234.02
+ORD11060,2025-07-16,C1146,Jeans,Clothing,Mumbai,1,1685.76,Cash on Delivery,1685.76
+ORD10569,2025-07-16,C1040,Laptop,Electronics,Bengaluru,4,59291.35,Credit Card,237165.4
+ORD10969,2025-07-17,C1093,Cricket Bat,Sports & Fitness,Bengaluru,5,2139.17,Cash on Delivery,10695.85
+ORD10906,2025-07-17,C1041,Water Bottle,Home & Kitchen,Pune,10,432.96,Credit Card,4329.6
+ORD10101,2025-07-18,C1160,Cricket Bat,Sports & Fitness,Delhi,1,2154.39,Debit Card,2154.39
+ORD10078,2025-07-18,C1093,Smart Watch,Electronics,Bengaluru,5,8408.09,Credit Card,42040.45
+ORD10916,2025-07-19,C1165,Office Chair,Books & Stationery,Bengaluru,1,6735.7,Wallet,6735.7
+ORD10289,2025-07-19,C1080,Water Bottle,Home & Kitchen,Chennai,1,437.1,UPI,437.1
+ORD10858,2025-07-19,C1086,Bluetooth Speaker,Electronics,Chennai,3,2433.24,Debit Card,7299.72
+ORD11143,2025-07-19,C1067,Smartphone,Electronics,Mumbai,1,18843.53,Cash on Delivery,18843.53
+ORD10501,2025-07-20,C1067,Air Fryer,Home & Kitchen,,1,5428.36,Wallet,5428.36
+ORD11050,2025-07-20,C1121,Treadmill,Sports & Fitness,Chennai,4,30441.51,Credit Card,121766.04
+ORD10154,2025-07-20,C1037,Saree,Clothing,,2,2943.83,UPI,5887.66
+ORD10639,2025-07-20,C1041,Backpack,Books & Stationery,Pune,1,1459.99,Credit Card,1459.99
+ORD10868,2025-07-21,C1202,Backpack,Books & Stationery,Bengaluru,1,1344.85,Debit Card,1344.85
+ORD10345,2025-07-22,C1196,Cookware Set,Home & Kitchen,Hyderabad,3,2859.82,UPI,8579.46
+ORD10606,2025-07-22,C1216,Saree,Clothing,Delhi,3,2804.35,UPI,8413.05
+ORD10358,2025-07-23,C1219,Saree,Clothing,Bengaluru,1,2694.27,Debit Card,2694.27
+ORD10059,2025-07-23,C1172,Jeans,Clothing,Mumbai,2,1805.4,Wallet,3610.8
+ORD10163,2025-07-23,C1187,Yoga Mat,Sports & Fitness,Delhi,2,868.17,Wallet,1736.34
+ORD10180,2025-07-23,C1224,Wireless Earbuds,Electronics,Mumbai,1,3742.74,Credit Card,3742.74
+ORD10131,2025-07-24,C1271,Cookware Set,Home & Kitchen,Delhi,1,3070.62,UPI,3070.62
+ORD10461,2025-07-24,C1282,Office Chair,Books & Stationery,Mumbai,3,7149.85,Debit Card,21449.55
+ORD10543,2025-07-25,C1299,Jeans,Clothing,Chennai,2,1912.96,Cash on Delivery,3825.92
+ORD10995,2025-07-25,C1267,Dumbbell Set,Sports & Fitness,Delhi,2,2505.34,Credit Card,5010.68
+ORD10138,2025-07-26,C1027,Laptop,Electronics,Delhi,2,56047.37,Cash on Delivery,112094.74
+ORD10109,2025-07-26,C1246,Vacuum Cleaner,Home & Kitchen,Hyderabad,1,6418.12,Credit Card,6418.12
+ORD10507,2025-07-26,C1195,Cricket Bat,Sports & Fitness,Delhi,2,2398.97,Net Banking,4797.94
+ORD10622,2025-07-26,C1056,Dumbbell Set,Sports & Fitness,Bengaluru,1,2442.12,Cash on Delivery,2442.12
+ORD10238,2025-07-27,C1266,Laptop,Electronics,Mumbai,1,60497.68,Net Banking,60497.68
+ORD10530,2025-07-27,C1206,Water Bottle,Home & Kitchen,Delhi,1,486.8,Net Banking,486.8
+ORD11069,2025-07-27,C1106,Novel,Books & Stationery,Bengaluru,5,339.08,UPI,1695.4
+ORD11000,2025-07-29,C1189,Vacuum Cleaner,Home & Kitchen,Mumbai,4,6435.19,UPI,25740.76
+ORD10268,2025-07-29,C1153,Makeup Kit,Beauty,Hyderabad,1,2409.94,UPI,2533.51
+ORD11195,2025-07-30,C1056,Dumbbell Set,Sports & Fitness,Bengaluru,1,2454.72,Credit Card,2454.72
+ORD10051,2025-07-30,C1147,Women's Kurti,Clothing,Hyderabad,4,980.28,Credit Card,3921.12
+ORD10392,2025-07-30,C1081,Vacuum Cleaner,Home & Kitchen,Bengaluru,2,7116.49,UPI,14232.98
+ORD10715,2025-07-30,C1115,Smartphone,Electronics,Pune,1,17038.72,Cash on Delivery,17038.72
+ORD11104,2025-07-31,C1121,Winter Jacket,Clothing,Chennai,3,3220.69,UPI,9662.07
+ORD10297,2025-07-31,C1249,Bluetooth Speaker,Electronics,Bengaluru,3,2458.05,Cash on Delivery,7374.15
+ORD10577,2025-08-01,C1135,Cricket Bat,Sports & Fitness,Delhi,1,2131.47,Cash on Delivery,2131.47
+ORD10941,2025-08-01,C1210,Treadmill,Sports & Fitness,Chennai,1,29830.81,Credit Card,29830.81
+ORD10098,2025-08-01,C1142,Office Chair,Books & Stationery,Ahmedabad,5,6464.5,Wallet,32322.5
+ORD10300,2025-08-02,C1032,Saree,Clothing,Mumbai,1,2721.43,Net Banking,2721.43
+ORD10010,2025-08-02,C1277,Makeup Kit,Beauty,Bengaluru,1,2259.7,UPI,2259.7
+ORD10498,2025-08-02,C1033,Makeup Kit,Beauty,Bengaluru,1,2132.44,UPI,2132.44
+ORD10407,2025-08-02,C1097,Saree,Clothing,Delhi,1,2634.51,Credit Card,2634.51
+ORD10493,2025-08-02,C1015,Cricket Bat,Sports & Fitness,Mumbai,1,2256.1,UPI,2256.1
+ORD10846,2025-08-03,C1061,Vacuum Cleaner,Home & Kitchen,Bengaluru,5,6306.27,Credit Card,31531.35
+ORD11078,2025-08-03,C1042,Hair Dryer,Beauty,Chennai,1,1545.48,Cash on Delivery,1545.48
+ORD10625,2025-08-03,C1072,Bedsheet Set,Home & Kitchen,Pune,1,1495.57,Credit Card,1495.57
+ORD10802,2025-08-03,C1024,Wireless Earbuds,Electronics,Kolkata,1,3578.58,Debit Card,3578.58
+ORD10931,2025-08-03,C1069,Perfume,Beauty,Bengaluru,1,1797.88,UPI,1797.88
+ORD10922,2025-08-04,C1039,Notebook Pack,Books & Stationery,Chennai,2,190.05,UPI,380.1
+ORD10444,2025-08-04,C1043,Dumbbell Set,Sports & Fitness,Mumbai,1,2497.24,UPI,2497.24
+ORD11024,2025-08-04,C1098,Smartphone,Electronics,Delhi,2,19472.58,Debit Card,38945.16
+ORD10523,2025-08-05,C1008,Mixer Grinder,Home & Kitchen,Delhi,1,3237.95,Cash on Delivery,3237.95
+ORD10216,2025-08-05,C1081,Smartphone,Electronics,Bengaluru,4,16727.58,UPI,66910.32
+ORD10918,2025-08-05,C1193,Jeans,Clothing,Pune,1,1855.9,Credit Card,1855.9
+ORD10438,2025-08-05,C1211,Treadmill,Sports & Fitness,Hyderabad,1,33026.7,Net Banking,33026.7
+ORD11066,2025-08-05,C1087,Novel,Books & Stationery,Bengaluru,4,334.7,UPI,1338.8
+ORD10590,2025-08-06,C1227,Office Chair,Books & Stationery,Hyderabad,2,7457.06,Net Banking,14914.12
+ORD10351,2025-08-06,C1280,Laptop,Electronics,Delhi,1,57043.04,Cash on Delivery,57043.04
+ORD10637,2025-08-06,C1067,Sports Shoes,Clothing,Mumbai,1,3342.59,Net Banking,3677.77
+ORD10381,2025-08-06,C1001,Perfume,Beauty,Bengaluru,1,1936.91,Net Banking,1936.91
+ORD10637,2025-08-06,C1067,Sports Shoes,Clothing,Mumbai,1,3342.59,Net Banking,3677.77
+ORD10403,2025-08-06,C1257,Backpack,Books & Stationery,Delhi,1,1501.41,UPI,1501.41
+ORD10246,2025-08-07,C1222,Bluetooth Speaker,Electronics,Chennai,1,2552.9,Cash on Delivery,2552.9
+ORD11030,2025-08-07,C1292,Winter Jacket,Clothing,Ahmedabad,1,3248.69,Cash on Delivery,3248.69
+ORD10029,2025-08-07,C1050,Yoga Mat,Sports & Fitness,Mumbai,3,754.15,Wallet,2262.45
+ORD10772,2025-08-07,C1159,Winter Jacket,Clothing,Kolkata,2,3601.3,Cash on Delivery,7202.6
+ORD10129,2025-08-07,C1147,Treadmill,Sports & Fitness,Hyderabad,1,30058.12,Credit Card,30058.12
+ORD11149,2025-08-08,C1253,Laptop,Electronics,Mumbai,1,57251.21,Debit Card,57251.21
+ORD10553,2025-08-08,C1010,Mixer Grinder,Home & Kitchen,Bengaluru,1,2984.5,Cash on Delivery,2984.5
+ORD10662,2025-08-09,C1279,Laptop,Electronics,Pune,1,53590.31,Debit Card,53590.31
+ORD10595,2025-08-09,C1126,Sports Shoes,Clothing,Mumbai,1,3022.35,UPI,3022.35
+ORD11090,2025-08-09,C1201,Air Fryer,Home & Kitchen,Lucknow,1,5226.01,Debit Card,5226.01
+ORD10468,2025-08-09,C1238,Laptop,Electronics,Delhi,1,53062.03,UPI,53062.03
+ORD10579,2025-08-10,C1166,Saree,Clothing,Pune,1,2957.18,Net Banking,2957.18
+ORD11191,2025-08-10,C1147,Sports Shoes,Clothing,Hyderabad,3,3180.82,UPI,9542.46
+ORD10722,2025-08-11,C1048,Moisturizer,Beauty,Chennai,4,418.47,UPI,1673.88
+ORD10624,2025-08-11,C1163,Jeans,Clothing,Delhi,1,1848.68,Debit Card,1848.68
+ORD10949,2025-08-11,C1274,Smart Watch,Electronics,Chennai,1,7544.24,Cash on Delivery,7544.24
+ORD10882,2025-08-11,C1279,Water Bottle,Home & Kitchen,Pune,1,474.17,UPI,474.17
+ORD10519,2025-08-11,C1277,Cricket Bat,Sports & Fitness,Bengaluru,2,2305.95,UPI,4611.9
+ORD10731,2025-08-11,C1255,Smartphone,Electronics,Kolkata,1,19186.22,UPI,19186.22
+ORD10348,2025-08-11,C1277,Laptop,Electronics,Bengaluru,1,58289.22,UPI,58289.22
+ORD10785,2025-08-11,C1166,Bluetooth Speaker,Electronics,Pune,5,2338.18,Cash on Delivery,11690.9
+ORD11127,2025-08-11,C1273,Novel,Books & Stationery,Hyderabad,6,375.55,Debit Card,2253.3
+ORD10111,2025-08-12,C1010,Novel,Books & Stationery,Bengaluru,5,339.92,Credit Card,1699.6
+ORD10209,2025-08-13,C1121,Face Wash,Beauty,Chennai,2,242.9,UPI,485.8
+ORD10280,2025-08-13,C1267,Winter Jacket,Clothing,Delhi,4,3252.09,Credit Card,13008.36
+ORD10607,2025-08-14,C1135,Moisturizer,Beauty,Delhi,2,446.4,Cash on Delivery,892.8
+ORD10657,2025-08-14,C1020,Cookware Set,Home & Kitchen,Kolkata,3,2579.76,Debit Card,7739.28
+ORD10576,2025-08-14,C1152,Hair Dryer,Beauty,Delhi,1,1410.27,Cash on Delivery,1410.27
+ORD11185,2025-08-14,C1187,Jeans,Clothing,Delhi,1,1797.88,UPI,1797.88
+ORD10319,2025-08-14,C1199,Dumbbell Set,Sports & Fitness,Mumbai,2,2691.36,Debit Card,5382.72
+ORD10935,2025-08-15,C1108,Cricket Bat,Sports & Fitness,Delhi,4,2262.34,Debit Card,9049.36
+ORD10786,2025-08-16,C1255,Tablet,Electronics,Kolkata,1,23317.52,UPI,23317.52
+ORD10615,2025-08-16,C1058,Sports Shoes,Clothing,Delhi,1,3444.48,Credit Card,3444.48
+ORD10211,2025-08-16,C1115,Jeans,Clothing,Pune,3,1783.68,Debit Card,5351.04
+ORD10547,2025-08-17,C1166,Cookware Set,Home & Kitchen,,1,2779.09,Debit Card,2779.09
+ORD10654,2025-08-17,C1071,Cookware Set,Home & Kitchen,Bengaluru,1,2929.75,UPI,2929.75
+ORD11025,2025-08-17,C1125,Smartphone,Electronics,Bengaluru,1,18932.96,Cash on Delivery,18932.96
+ORD10967,2025-08-17,C1201,Jeans,Clothing,Lucknow,2,1966.37,Cash on Delivery,3932.74
+ORD10644,2025-08-17,C1295,Backpack,Books & Stationery,Jaipur,2,1301.44,Cash on Delivery,2602.88
+ORD10050,2025-08-17,C1099,Men's T-Shirt,Clothing,Ahmedabad,5,628.71,UPI,3143.55
+ORD10282,2025-08-17,C1283,Winter Jacket,Clothing,Mumbai,4,3253.59,Debit Card,13014.36
+ORD10115,2025-08-18,C1015,Office Chair,Books & Stationery,Mumbai,1,6781.13,Wallet,6781.13
+ORD10755,2025-08-18,C1039,Tablet,Electronics,Chennai,1,23772.48,Cash on Delivery,23772.48
+ORD10820,2025-08-18,C1002,Men's T-Shirt,Clothing,Pune,1,559.16,UPI,559.16
+ORD10528,2025-08-19,C1121,Bedsheet Set,Home & Kitchen,Chennai,1,1447.2,Credit Card,1447.2
+ORD10538,2025-08-19,C1265,Face Wash,Beauty,Delhi,2,233.02,Debit Card,466.04
+ORD10719,2025-08-19,C1105,Perfume,Beauty,Chennai,3,1743.65,Credit Card,5230.95
+ORD11001,2025-08-19,C1093,Yoga Mat,Sports & Fitness,Bengaluru,1,777.05,UPI,777.05
+ORD10538,2025-08-19,C1265,Face Wash,Beauty,Delhi,2,233.02,Debit Card,466.04
+ORD10373,2025-08-21,C1057,Winter Jacket,Clothing,Hyderabad,1,3506.13,UPI,3506.13
+ORD11010,2025-08-22,C1147,Moisturizer,Beauty,Hyderabad,2,457.53,UPI,915.06
+ORD10288,2025-08-22,C1087,Men's T-Shirt,Clothing,Bengaluru,2,656.75,Credit Card,1313.5
+ORD10435,2025-08-22,C1268,Bluetooth Speaker,Electronics,Delhi,1,2369.5,Net Banking,2722.57
+ORD10989,2025-08-23,C1252,Treadmill,Sports & Fitness,Bengaluru,3,29733.49,UPI,89200.47
+ORD10353,2025-08-24,C1024,Bluetooth Speaker,Electronics,Kolkata,1,2329.86,UPI,2329.86
+ORD11153,2025-08-24,C1121,Laptop,Electronics,Chennai,1,53909.83,UPI,53909.83
+ORD10489,2025-08-24,C1267,Mixer Grinder,Home & Kitchen,Delhi,3,3329.05,Cash on Delivery,9987.15
+ORD10259,2025-08-24,C1071,Laptop,Electronics,Bengaluru,3,51157.26,Credit Card,153471.78
+ORD11076,2025-08-24,C1207,Women's Kurti,Clothing,Chennai,1,910.16,Cash on Delivery,910.16
+ORD10742,2025-08-24,C1275,Cookware Set,Home & Kitchen,Bengaluru,4,2609.92,Credit Card,10439.68
+ORD10354,2025-08-24,C1091,Cookware Set,Home & Kitchen,Chennai,3,2974.6,Credit Card,8923.8
+ORD11166,2025-08-25,C1193,Bluetooth Speaker,Electronics,Pune,4,2728.49,Net Banking,10913.96
+ORD10551,2025-08-25,C1060,Office Chair,Books & Stationery,Chennai,1,7013.09,UPI,7013.09
+ORD11054,2025-08-26,C1151,Novel,Books & Stationery,Jaipur,1,329.02,Debit Card,329.02
+ORD11152,2025-08-26,C1113,Smart Watch,Electronics,Hyderabad,1,8657.45,Wallet,8657.45
+ORD10291,2025-08-28,C1006,Bluetooth Speaker,Electronics,Kolkata,5,2594.75,Cash on Delivery,12973.75
+ORD10313,2025-08-28,C1005,Office Chair,Books & Stationery,Lucknow,5,6871.89,Credit Card,34359.45
+ORD10660,2025-08-29,C1121,Laptop,Electronics,Chennai,1,60304.42,UPI,60304.42
+ORD10518,2025-08-29,C1194,Makeup Kit,Beauty,Delhi,1,2382.46,UPI,2382.46
+ORD10831,2025-08-29,C1142,Tablet,Electronics,Ahmedabad,1,24159.49,UPI,24159.49
+ORD10014,2025-08-30,C1082,Sports Shoes,Clothing,Pune,3,3033.53,Cash on Delivery,9100.59
+ORD10189,2025-08-30,C1155,Cricket Bat,Sports & Fitness,Chennai,1,2130.58,Credit Card,2130.58
+ORD10790,2025-08-30,C1090,Air Fryer,Home & Kitchen,Delhi,2,5069.24,UPI,10138.48
+ORD11097,2025-08-30,C1261,Moisturizer,Beauty,Pune,3,490.54,Wallet,1471.62
+ORD10105,2025-08-30,C1201,Treadmill,Sports & Fitness,Lucknow,1,29466.6,UPI,29466.6
+ORD10166,2025-08-31,C1211,Office Chair,Books & Stationery,,1,6285.93,Credit Card,6285.93
+ORD10688,2025-08-31,C1123,Face Wash,Beauty,Bengaluru,1,258.21,UPI,258.21
+ORD10483,2025-08-31,C1096,Tablet,Electronics,Mumbai,4,21601.09,UPI,86404.36
+ORD10834,2025-08-31,C1066,Moisturizer,Beauty,Hyderabad,2,429.83,UPI,859.66
+ORD10505,2025-08-31,C1019,Air Fryer,Home & Kitchen,Chennai,4,5230.64,Credit Card,20922.56
+ORD10341,2025-09-01,C1279,Winter Jacket,Clothing,Pune,1,3829.78,Debit Card,3829.78
+ORD10825,2025-09-03,C1100,Laptop,Electronics,Jaipur,2,57424.43,Net Banking,114848.86
+ORD10601,2025-09-04,C1039,Smart Watch,Electronics,Chennai,3,8612.94,UPI,25838.82
+ORD10741,2025-09-04,C1121,Tablet,Electronics,Chennai,4,22749.07,Credit Card,90996.28
+ORD10316,2025-09-05,C1209,Vacuum Cleaner,Home & Kitchen,Bengaluru,1,6192.38,UPI,6192.38
+ORD10009,2025-09-05,C1046,Backpack,Books & Stationery,Bengaluru,1,1362.68,Wallet,1362.68
+ORD10876,2025-09-06,C1097,Saree,Clothing,Delhi,4,2871.54,Net Banking,11486.16
+ORD10850,2025-09-06,C1256,Bluetooth Speaker,Electronics,Pune,1,2568.91,Credit Card,2568.91
+ORD10602,2025-09-06,C1032,Hair Dryer,Beauty,Mumbai,1,1627.44,Credit Card,1627.44
+ORD10919,2025-09-07,C1212,Moisturizer,Beauty,Mumbai,2,482.55,Debit Card,965.1
+ORD10173,2025-09-07,C1252,Smartphone,Electronics,Bengaluru,1,16799.95,Cash on Delivery,16799.95
+ORD10234,2025-09-08,C1249,Notebook Pack,Books & Stationery,Bengaluru,1,189.12,UPI,189.12
+ORD10273,2025-09-08,C1121,Bedsheet Set,Home & Kitchen,,1,1534.32,Debit Card,1534.32
+ORD11053,2025-09-08,C1076,Men's T-Shirt,Clothing,Mumbai,1,597.77,UPI,597.77
+ORD10691,2025-09-09,C1190,Bedsheet Set,Home & Kitchen,Ahmedabad,1,1495.19,UPI,1495.19
+ORD10974,2025-09-09,C1050,Backpack,Books & Stationery,Mumbai,1,1528.54,Credit Card,1528.54
+ORD10286,2025-09-09,C1291,Mixer Grinder,Home & Kitchen,Delhi,1,3341.73,Cash on Delivery,3341.73
+ORD10620,2025-09-09,C1278,Bedsheet Set,Home & Kitchen,Pune,5,1463.33,Wallet,7316.65
+ORD11100,2025-09-10,C1255,Makeup Kit,Beauty,Kolkata,3,2240.01,Wallet,6720.03
+ORD10406,2025-09-11,C1240,Tablet,Electronics,Pune,2,22231.86,Cash on Delivery,44463.72
+ORD10676,2025-09-11,C1096,Wireless Earbuds,Electronics,Mumbai,1,3259.54,Credit Card,3259.54
+ORD10520,2025-09-11,C1081,Novel,Books & Stationery,Bengaluru,4,370.56,Net Banking,1482.24
+ORD10749,2025-09-11,C1125,Tablet,Electronics,Bengaluru,3,20963.6,Credit Card,62890.8
+ORD10386,2025-09-11,C1238,Smart Watch,Electronics,Delhi,2,7866.45,UPI,15732.9
+ORD10610,2025-09-11,C1102,Dumbbell Set,Sports & Fitness,Mumbai,1,2555.12,Credit Card,2555.12
+ORD10517,2025-09-12,C1095,Hair Dryer,Beauty,Chennai,1,1430.34,Debit Card,1430.34
+ORD10276,2025-09-12,C1168,Smartphone,Electronics,Mumbai,3,18938.21,UPI,56814.63
+ORD10130,2025-09-12,C1026,Yoga Mat,Sports & Fitness,Bengaluru,2,806.02,UPI,1612.04
+ORD10265,2025-09-13,C1004,Face Wash,Beauty,Delhi,2,256.65,Wallet,513.3
+ORD10563,2025-09-13,C1132,Moisturizer,Beauty,,1,474.47,Net Banking,474.47
+ORD10355,2025-09-13,C1253,Water Bottle,Home & Kitchen,Mumbai,1,431.02,UPI,431.02
+ORD10031,2025-09-13,C1022,Dumbbell Set,Sports & Fitness,Lucknow,1,2579.81,UPI,2579.81
+ORD10627,2025-09-13,C1275,Saree,Clothing,Bengaluru,3,2784.65,UPI,8353.95
+ORD10948,2025-09-14,C1184,Winter Jacket,Clothing,Kolkata,1,3702.86,UPI,3702.86
+ORD10235,2025-09-14,C1024,Treadmill,Sports & Fitness,Kolkata,2,32687.85,Cash on Delivery,65375.7
+ORD11075,2025-09-15,C1027,Perfume,Beauty,Delhi,1,1939.9,UPI,1939.9
+ORD11058,2025-09-15,C1081,Office Chair,Books & Stationery,Bengaluru,1,6737.25,UPI,6737.25
+ORD10400,2025-09-15,C1011,Hair Dryer,Beauty,Ahmedabad,1,1392.79,UPI,1392.79
+ORD10954,2025-09-15,C1147,Jeans,Clothing,Hyderabad,1,1812.4,UPI,1812.4
+ORD11039,2025-09-15,C1121,Novel,Books & Stationery,Chennai,4,377.94,Wallet,1511.76
+ORD10982,2025-09-16,C1194,Vacuum Cleaner,Home & Kitchen,Delhi,3,6581.69,Cash on Delivery,19745.07
+ORD10987,2025-09-16,C1236,Novel,Books & Stationery,Bengaluru,1,384.19,Credit Card,384.19
+ORD10229,2025-09-16,C1241,Face Wash,Beauty,Kolkata,4,259.53,Cash on Delivery,1038.12
+ORD10290,2025-09-17,C1147,Vacuum Cleaner,Home & Kitchen,Hyderabad,2,6773.62,Credit Card,13547.24
+ORD11026,2025-09-17,C1165,Cricket Bat,Sports & Fitness,Bengaluru,2,2359.92,Credit Card,4719.84
+ORD10222,2025-09-18,C1283,Makeup Kit,Beauty,Mumbai,3,2075.78,Debit Card,6227.34
+ORD10165,2025-09-18,C1098,Dumbbell Set,Sports & Fitness,Delhi,3,2435.59,Debit Card,7306.77
+ORD10985,2025-09-18,C1113,Treadmill,Sports & Fitness,Hyderabad,1,30719.09,Cash on Delivery,30719.09
+ORD10279,2025-09-19,C1041,Men's T-Shirt,Clothing,Pune,5,593.4,Wallet,2967.0
+ORD10933,2025-09-19,C1080,Backpack,Books & Stationery,Chennai,1,1529.17,Debit Card,1529.17
+ORD10829,2025-09-20,C1180,Smartphone,Electronics,Jaipur,1,18891.05,Cash on Delivery,18891.05
+ORD10366,2025-09-20,C1098,Notebook Pack,Books & Stationery,Delhi,6,210.05,Debit Card,1260.3
+ORD10454,2025-09-20,C1108,Tablet,Electronics,Delhi,2,21744.79,UPI,43489.58
+ORD10068,2025-09-20,C1266,Makeup Kit,Beauty,Mumbai,1,2033.2,Credit Card,2033.2
+ORD10529,2025-09-20,C1158,Yoga Mat,Sports & Fitness,Chennai,4,879.38,Wallet,3517.52
+ORD10352,2025-09-21,C1266,Bedsheet Set,Home & Kitchen,Mumbai,2,1571.7,UPI,3143.4
+ORD10697,2025-09-21,C1157,Cricket Bat,Sports & Fitness,Chennai,1,2127.87,Cash on Delivery,2127.87
+ORD10533,2025-09-21,C1039,Tablet,Electronics,Chennai,3,21052.0,Cash on Delivery,63156.0
+ORD10046,2025-09-22,C1256,Saree,Clothing,Pune,1,2854.66,Credit Card,2854.66
+ORD10112,2025-09-23,C1115,Makeup Kit,Beauty,Pune,2,2088.7,UPI,4177.4
+ORD10363,2025-09-23,C1141,Bluetooth Speaker,Electronics,Bengaluru,2,2652.28,UPI,5304.56
+ORD10005,2025-09-25,C1071,Face Wash,Beauty,Bengaluru,1,263.27,Cash on Delivery,263.27
+ORD10596,2025-09-25,C1040,Dumbbell Set,Sports & Fitness,Bengaluru,4,2587.37,Cash on Delivery,10349.48
+ORD10274,2025-09-26,C1238,Bedsheet Set,Home & Kitchen,Delhi,2,1574.46,Credit Card,3148.92
+ORD11121,2025-09-26,C1267,Smart Watch,Electronics,Delhi,2,8109.61,Wallet,16219.22
+ORD10803,2025-09-27,C1004,Notebook Pack,Books & Stationery,Delhi,4,214.86,UPI,859.44
+ORD10897,2025-09-27,C1099,Sports Shoes,Clothing,Ahmedabad,1,3415.31,UPI,3415.31
+ORD10125,2025-09-27,C1153,Smartphone,Electronics,Hyderabad,4,18402.17,UPI,73608.68
+ORD10727,2025-09-27,C1041,Women's Kurti,Clothing,Pune,2,869.29,Net Banking,1738.58
+ORD10243,2025-09-27,C1080,Sports Shoes,Clothing,Chennai,1,3166.29,Credit Card,3166.29
+ORD10642,2025-09-28,C1224,Mixer Grinder,Home & Kitchen,Mumbai,1,3356.8,Cash on Delivery,3356.8
+ORD10069,2025-09-29,C1139,Treadmill,Sports & Fitness,Delhi,1,31295.96,UPI,31295.96
+ORD11049,2025-09-29,C1112,Water Bottle,Home & Kitchen,Mumbai,4,425.77,Credit Card,1703.08
+ORD10100,2025-09-29,C1121,Notebook Pack,Books & Stationery,Chennai,2,205.22,Net Banking,410.44
+ORD10285,2025-09-29,C1253,Dumbbell Set,Sports & Fitness,Mumbai,4,2711.05,Debit Card,10844.2
+ORD10643,2025-09-29,C1216,Jeans,Clothing,Delhi,1,1705.81,UPI,1705.81
+ORD10700,2025-09-30,C1033,Dumbbell Set,Sports & Fitness,Bengaluru,1,2483.1,Net Banking,2483.1
+ORD11129,2025-10-01,C1098,Vacuum Cleaner,Home & Kitchen,Delhi,1,6413.63,Wallet,6413.63
+ORD11159,2025-10-01,C1143,Makeup Kit,Beauty,Hyderabad,2,2293.68,UPI,4587.36
+ORD10376,2025-10-02,C1252,Bluetooth Speaker,Electronics,Bengaluru,1,2748.21,Cash on Delivery,2748.21
+ORD10170,2025-10-02,C1126,Water Bottle,Home & Kitchen,Mumbai,2,474.26,UPI,948.52
+ORD10966,2025-10-02,C1019,Bedsheet Set,Home & Kitchen,Chennai,1,1396.82,Credit Card,1396.82
+ORD10940,2025-10-03,C1204,Jeans,Clothing,Delhi,2,1890.28,Debit Card,3780.56
+ORD10618,2025-10-03,C1210,Cookware Set,Home & Kitchen,Chennai,1,2863.1,Credit Card,2863.1
+ORD10071,2025-10-03,C1073,Perfume,Beauty,Mumbai,1,1811.72,UPI,1811.72
+ORD10677,2025-10-04,C1121,Saree,Clothing,Chennai,1,3049.52,Cash on Delivery,3049.52
+ORD11186,2025-10-04,C1194,Novel,Books & Stationery,Delhi,4,350.76,Credit Card,1403.04
+ORD10514,2025-10-04,C1121,Water Bottle,Home & Kitchen,Chennai,1,447.99,Debit Card,447.99
+ORD11014,2025-10-04,C1253,Yoga Mat,Sports & Fitness,Mumbai,6,759.26,Debit Card,4555.56
+ORD10976,2025-10-04,C1216,Bluetooth Speaker,Electronics,Delhi,1,2526.69,Credit Card,2526.69
+ORD10091,2025-10-04,C1270,Makeup Kit,Beauty,Delhi,1,2024.42,UPI,2024.42
+ORD10930,2025-10-04,C1019,Air Fryer,Home & Kitchen,Chennai,1,5410.97,Credit Card,5410.97
+ORD10409,2025-10-04,C1203,Vacuum Cleaner,Home & Kitchen,Delhi,1,6348.2,UPI,6348.2
+ORD11016,2025-10-05,C1021,Yoga Mat,Sports & Fitness,Mumbai,1,853.93,Debit Card,853.93
+ORD10839,2025-10-05,C1279,Wireless Earbuds,Electronics,Pune,4,3444.92,UPI,13779.68
+ORD10932,2025-10-05,C1025,Sports Shoes,Clothing,Mumbai,1,3334.45,Credit Card,3334.45
+ORD10776,2025-10-05,C1098,Backpack,Books & Stationery,Delhi,1,1457.08,Credit Card,1457.08
+ORD10708,2025-10-05,C1171,Tablet,Electronics,Bengaluru,1,24188.22,Debit Card,24188.22
+ORD10087,2025-10-06,C1067,Office Chair,Books & Stationery,Mumbai,1,7324.38,UPI,7324.38
+ORD11091,2025-10-06,C1273,Winter Jacket,Clothing,Hyderabad,1,3480.74,Debit Card,3480.74
+ORD11071,2025-10-07,C1157,Water Bottle,Home & Kitchen,Chennai,2,434.31,Wallet,868.62
+ORD10898,2025-10-07,C1092,Smartphone,Electronics,Bengaluru,4,16643.28,Wallet,66573.12
+ORD10771,2025-10-07,C1274,Tablet,Electronics,Chennai,1,22716.84,Credit Card,22716.84
+ORD10333,2025-10-08,C1284,Women's Kurti,Clothing,Hyderabad,4,960.04,Credit Card,3840.16
+ORD11179,2025-10-08,C1219,Sports Shoes,Clothing,Bengaluru,2,3373.66,Debit Card,6747.32
+ORD10632,2025-10-08,C1230,Mixer Grinder,Home & Kitchen,Delhi,1,3454.46,UPI,3454.46
+ORD11187,2025-10-08,C1295,Saree,Clothing,Jaipur,1,2601.5,Credit Card,2601.5
+ORD11055,2025-10-09,C1113,Winter Jacket,Clothing,Hyderabad,1,3334.0,Credit Card,3334.0
+ORD10798,2025-10-09,C1050,Bluetooth Speaker,Electronics,Mumbai,1,2640.06,Credit Card,2640.06
+ORD10474,2025-10-09,C1050,Sports Shoes,Clothing,Mumbai,1,3046.65,Debit Card,3046.65
+ORD10704,2025-10-09,C1221,Winter Jacket,Clothing,Bengaluru,2,3263.73,UPI,6527.46
+ORD10396,2025-10-09,C1039,Vacuum Cleaner,Home & Kitchen,Chennai,1,6604.03,UPI,6604.03
+ORD11156,2025-10-10,C1160,Dumbbell Set,Sports & Fitness,Delhi,1,2562.23,Credit Card,2562.23
+ORD11051,2025-10-10,C1298,Sports Shoes,Clothing,Kolkata,5,3469.02,Credit Card,17345.1
+ORD10735,2025-10-10,C1098,Laptop,Electronics,Delhi,1,59302.14,UPI,59302.14
+ORD11041,2025-10-10,C1219,Wireless Earbuds,Electronics,Bengaluru,2,3784.83,Credit Card,7569.66
+ORD10447,2025-10-10,C1253,Women's Kurti,Clothing,Mumbai,2,928.73,Credit Card,1857.46
+ORD11198,2025-10-11,C1231,Bluetooth Speaker,Electronics,Bengaluru,2,2357.3,Cash on Delivery,4714.6
+ORD10680,2025-10-11,C1001,Mixer Grinder,Home & Kitchen,Bengaluru,1,3322.95,UPI,3322.95
+ORD11027,2025-10-11,C1266,Bluetooth Speaker,Electronics,Mumbai,1,2622.35,Credit Card,2622.35
+ORD10219,2025-10-11,C1054,Women's Kurti,Clothing,Chennai,3,891.48,UPI,2674.44
+ORD11052,2025-10-11,C1142,Office Chair,Books & Stationery,Ahmedabad,3,6285.14,Credit Card,18855.42
+ORD11142,2025-10-11,C1121,Yoga Mat,Sports & Fitness,Chennai,3,802.11,UPI,2406.33
+ORD10178,2025-10-11,C1203,Water Bottle,Home & Kitchen,Delhi,1,463.44,Debit Card,463.44
+ORD10594,2025-10-11,C1090,Tablet,Electronics,Delhi,3,24094.09,Credit Card,72282.27
+ORD10370,2025-10-12,C1188,Smartphone,Electronics,Kolkata,2,19668.39,UPI,39336.78
+ORD10589,2025-10-12,C1029,Laptop,Electronics,Chennai,1,51382.78,Cash on Delivery,51382.78
+ORD10148,2025-10-12,C1047,Office Chair,Books & Stationery,Mumbai,4,6580.01,Cash on Delivery,26320.04
+ORD10773,2025-10-12,C1029,Moisturizer,Beauty,Chennai,2,419.07,Debit Card,838.14
+ORD10388,2025-10-12,C1244,Perfume,Beauty,Hyderabad,1,1881.36,UPI,1881.36
+ORD10004,2025-10-12,C1040,Wireless Earbuds,Electronics,Bengaluru,1,3454.8,Debit Card,3454.8
+ORD10634,2025-10-13,C1067,Air Fryer,Home & Kitchen,Mumbai,2,5574.12,Credit Card,11148.24
+ORD10430,2025-10-13,C1245,Perfume,Beauty,Pune,1,1839.74,UPI,1839.74
+ORD10479,2025-10-13,C1082,Men's T-Shirt,Clothing,Pune,4,626.04,Debit Card,2504.16
+ORD10761,2025-10-13,C1267,Jeans,Clothing,Delhi,1,1752.79,Net Banking,1752.79
+ORD10681,2025-10-13,C1174,Notebook Pack,Books & Stationery,,3,203.1,UPI,609.3
+ORD10041,2025-10-14,C1050,Wireless Earbuds,Electronics,Mumbai,1,3468.29,UPI,3468.29
+ORD10330,2025-10-14,C1252,Face Wash,Beauty,Bengaluru,2,239.99,Debit Card,479.98
+ORD10021,2025-10-14,C1135,Backpack,Books & Stationery,Delhi,1,1369.27,UPI,1369.27
+ORD10542,2025-10-14,C1248,Treadmill,Sports & Fitness,Bengaluru,1,34553.04,Credit Card,34553.04
+ORD11189,2025-10-14,C1160,Vacuum Cleaner,Home & Kitchen,Delhi,2,6114.6,UPI,12229.2
+ORD10323,2025-10-15,C1202,Smartphone,Electronics,Bengaluru,1,17698.57,Credit Card,17698.57
+ORD10994,2025-10-15,C1295,Office Chair,Books & Stationery,Jaipur,2,6432.81,UPI,12865.62
+ORD10848,2025-10-16,C1050,Bluetooth Speaker,Electronics,Mumbai,4,2680.68,Credit Card,10722.72
+ORD10864,2025-10-16,C1267,Laptop,Electronics,Delhi,1,55052.77,UPI,55052.77
+ORD10205,2025-10-16,C1078,Office Chair,Books & Stationery,Hyderabad,4,7013.24,Wallet,28052.96
+ORD10270,2025-10-16,C1026,Smart Watch,Electronics,Bengaluru,2,8656.4,Debit Card,17312.8
+ORD10770,2025-10-16,C1249,Office Chair,Books & Stationery,Bengaluru,1,7249.61,UPI,7249.61
+ORD10751,2025-10-17,C1064,Sports Shoes,Clothing,Chennai,1,3248.34,UPI,3248.34
+ORD10393,2025-10-17,C1031,Novel,Books & Stationery,Ahmedabad,1,341.45,UPI,341.45
+ORD10383,2025-10-18,C1157,Smart Watch,Electronics,Chennai,1,7640.84,Debit Card,7640.84
+ORD10709,2025-10-18,C1067,Winter Jacket,Clothing,Mumbai,3,3356.33,Cash on Delivery,10068.99
+ORD10826,2025-10-18,C1102,Vacuum Cleaner,Home & Kitchen,Mumbai,1,6684.9,Wallet,6684.9
+ORD10886,2025-10-18,C1272,Bedsheet Set,Home & Kitchen,Delhi,2,1515.46,Credit Card,3030.92
+ORD10534,2025-10-18,C1060,Face Wash,Beauty,Chennai,2,238.55,Credit Card,477.1
+ORD10896,2025-10-19,C1041,Cookware Set,Home & Kitchen,Pune,1,2975.4,Cash on Delivery,2975.4
+ORD10626,2025-10-19,C1196,Vacuum Cleaner,Home & Kitchen,Hyderabad,1,6816.03,Credit Card,6816.03
+ORD10395,2025-10-19,C1210,Tablet,Electronics,Chennai,2,22595.26,Cash on Delivery,45190.52
+ORD10586,2025-10-19,C1010,Women's Kurti,Clothing,Bengaluru,4,948.87,Wallet,3795.48
+ORD10857,2025-10-19,C1293,Mixer Grinder,Home & Kitchen,Delhi,1,3451.55,UPI,3451.55
+ORD10426,2025-10-20,C1124,Dumbbell Set,Sports & Fitness,Delhi,2,2719.45,Cash on Delivery,5438.9
+ORD10360,2025-10-20,C1295,Smartphone,Electronics,Jaipur,1,17382.61,Debit Card,17382.61
+ORD10827,2025-10-20,C1295,Sports Shoes,Clothing,Jaipur,1,3190.59,Credit Card,3190.59
+ORD10434,2025-10-20,C1050,Smart Watch,Electronics,Mumbai,1,7383.75,Cash on Delivery,7383.75
+ORD11093,2025-10-21,C1202,Laptop,Electronics,Bengaluru,1,52004.93,UPI,52004.93
+ORD10088,2025-10-21,C1253,Makeup Kit,Beauty,Mumbai,2,2248.3,UPI,4496.6
+ORD10380,2025-10-21,C1198,Smartphone,Electronics,Mumbai,5,18517.39,Wallet,92586.95
+ORD10371,2025-10-21,C1077,Bedsheet Set,Home & Kitchen,Chennai,1,1633.18,Debit Card,1633.18
+ORD10638,2025-10-21,C1267,Notebook Pack,Books & Stationery,Delhi,1,201.96,Debit Card,201.96
+ORD10743,2025-10-21,C1020,Wireless Earbuds,Electronics,Kolkata,2,3490.37,UPI,6980.74
+ORD11101,2025-10-21,C1226,Face Wash,Beauty,Delhi,1,246.26,UPI,246.26
+ORD10174,2025-10-22,C1147,Vacuum Cleaner,Home & Kitchen,Hyderabad,2,7012.14,Credit Card,14024.28
+ORD10942,2025-10-22,C1216,Cookware Set,Home & Kitchen,Delhi,3,2768.85,Debit Card,8306.55
+ORD10952,2025-10-23,C1002,Cookware Set,Home & Kitchen,Pune,5,2613.1,UPI,13065.5
+ORD10943,2025-10-23,C1185,Treadmill,Sports & Fitness,Chennai,1,35010.34,Credit Card,35010.34
+ORD10678,2025-10-23,C1097,Saree,Clothing,Delhi,1,2952.13,Debit Card,2952.13
+ORD10496,2025-10-23,C1286,Sports Shoes,Clothing,Delhi,4,3189.04,UPI,12756.16
+ORD10062,2025-10-24,C1158,Winter Jacket,Clothing,Chennai,1,3685.26,Credit Card,3685.26
+ORD10033,2025-10-25,C1201,Sports Shoes,Clothing,Lucknow,1,3262.84,Credit Card,3262.84
+ORD10917,2025-10-25,C1106,Cookware Set,Home & Kitchen,Bengaluru,1,2775.05,Credit Card,2775.05
+ORD11116,2025-10-25,C1119,Cricket Bat,Sports & Fitness,Hyderabad,1,2254.62,Credit Card,2254.62
+ORD10128,2025-10-25,C1070,Vacuum Cleaner,Home & Kitchen,Mumbai,1,6767.24,UPI,6767.24
+ORD10768,2025-10-25,C1155,Wireless Earbuds,Electronics,Chennai,2,3243.66,UPI,6487.32
+ORD10842,2025-10-26,C1015,Tablet,Electronics,Mumbai,1,22591.13,UPI,22591.13
+ORD10382,2025-10-26,C1031,Men's T-Shirt,Clothing,Ahmedabad,1,605.08,Net Banking,605.08
+ORD10853,2025-10-26,C1289,Dumbbell Set,Sports & Fitness,Delhi,2,2427.83,Credit Card,4855.66
+ORD10159,2025-10-26,C1284,Men's T-Shirt,Clothing,Hyderabad,4,634.08,Credit Card,2536.32
+ORD11115,2025-10-26,C1286,Novel,Books & Stationery,Delhi,1,359.94,UPI,359.94
+ORD10714,2025-10-26,C1056,Sports Shoes,Clothing,Bengaluru,1,3390.23,Credit Card,3390.23
+ORD10717,2025-10-27,C1121,Mixer Grinder,Home & Kitchen,Chennai,2,3199.12,UPI,6398.24
+ORD10878,2025-10-27,C1132,Smartphone,Electronics,Hyderabad,1,18996.83,Debit Card,18996.83
+ORD10480,2025-10-27,C1146,Bedsheet Set,Home & Kitchen,Mumbai,4,1544.19,Debit Card,6176.76
+ORD10891,2025-10-27,C1050,Sports Shoes,Clothing,Mumbai,1,3009.89,UPI,3009.89
+ORD10554,2025-10-27,C1071,Tablet,Electronics,Bengaluru,2,20733.46,Wallet,41466.92
+ORD10047,2025-10-28,C1165,Smartphone,Electronics,,3,17079.41,UPI,51238.23
+ORD10581,2025-10-28,C1258,Winter Jacket,Clothing,Delhi,3,3480.69,Credit Card,10442.07
+ORD11068,2025-10-28,C1186,Vacuum Cleaner,Home & Kitchen,Bengaluru,1,6186.91,UPI,6186.91
+ORD10083,2025-10-29,C1118,Notebook Pack,Books & Stationery,Bengaluru,1,203.4,UPI,203.4
+ORD10870,2025-10-29,C1068,Perfume,Beauty,Delhi,2,1821.38,Debit Card,3642.76
+ORD10308,2025-10-29,C1083,Backpack,Books & Stationery,Delhi,2,1326.68,UPI,2653.36
+ORD10769,2025-10-29,C1075,Treadmill,Sports & Fitness,Mumbai,3,32118.4,Net Banking,96355.2
+ORD10324,2025-10-29,C1029,Cricket Bat,Sports & Fitness,Chennai,3,2176.62,Wallet,6529.86
+ORD10028,2025-10-29,C1210,Laptop,Electronics,Chennai,2,52238.33,UPI,104476.66
+ORD11011,2025-10-29,C1226,Cricket Bat,Sports & Fitness,Delhi,1,2257.31,UPI,2257.31
+ORD10645,2025-10-30,C1069,Bedsheet Set,Home & Kitchen,Bengaluru,2,1557.01,UPI,3114.02
+ORD10950,2025-10-30,C1219,Novel,Books & Stationery,Bengaluru,5,368.3,Net Banking,1841.5
+ORD10413,2025-10-30,C1012,Saree,Clothing,Chennai,5,2928.11,Net Banking,14640.55
+ORD10851,2025-10-31,C1132,Jeans,Clothing,Hyderabad,1,1966.27,Credit Card,1966.27
+ORD10725,2025-10-31,C1121,Dumbbell Set,Sports & Fitness,Chennai,1,2696.24,UPI,2696.24
+ORD10303,2025-10-31,C1247,Novel,Books & Stationery,Bengaluru,2,375.32,Credit Card,750.64
+ORD10869,2025-10-31,C1196,Face Wash,Beauty,Hyderabad,1,242.81,Credit Card,242.81
+ORD10134,2025-10-31,C1066,Cookware Set,Home & Kitchen,Hyderabad,1,2947.23,UPI,2947.23
+ORD11013,2025-11-01,C1141,Smartphone,Electronics,Bengaluru,1,17200.89,UPI,17200.89
+ORD10241,2025-11-01,C1287,Mixer Grinder,Home & Kitchen,Bengaluru,1,3321.54,Net Banking,3321.54
+ORD10690,2025-11-01,C1243,Notebook Pack,Books & Stationery,Hyderabad,1,201.25,Net Banking,201.25
+ORD11106,2025-11-01,C1117,Face Wash,Beauty,Chennai,3,274.01,Net Banking,822.03
+ORD11176,2025-11-01,C1203,Smartphone,Electronics,Delhi,3,19262.16,UPI,57786.48
+ORD10160,2025-11-01,C1249,Backpack,Books & Stationery,Bengaluru,2,1420.92,UPI,2841.84
+ORD10466,2025-11-01,C1127,Smart Watch,Electronics,Delhi,1,7482.2,Credit Card,7482.2
+ORD10001,2025-11-01,C1216,Bedsheet Set,Home & Kitchen,Delhi,1,1645.84,UPI,1645.84
+ORD10562,2025-11-02,C1054,Mixer Grinder,Home & Kitchen,Chennai,1,3150.98,UPI,3150.98
+ORD10431,2025-11-02,C1279,Cricket Bat,Sports & Fitness,Pune,5,2415.22,Debit Card,12076.1
+ORD10421,2025-11-02,C1201,Tablet,Electronics,,1,23720.72,UPI,23720.72
+ORD11125,2025-11-02,C1077,Air Fryer,Home & Kitchen,Chennai,1,5594.11,Credit Card,5594.11
+ORD10669,2025-11-02,C1176,Sports Shoes,Clothing,Bengaluru,1,3425.93,Net Banking,3425.93
+ORD10096,2025-11-02,C1259,Smart Watch,Electronics,Hyderabad,1,8252.18,Cash on Delivery,8252.18
+ORD10682,2025-11-02,C1102,Face Wash,Beauty,Mumbai,2,269.62,Credit Card,539.24
+ORD10887,2025-11-03,C1125,Air Fryer,Home & Kitchen,Bengaluru,2,5488.79,Wallet,10977.58
+ORD10384,2025-11-03,C1280,Women's Kurti,Clothing,Delhi,1,917.91,Net Banking,917.91
+ORD10089,2025-11-03,C1121,Tablet,Electronics,Chennai,1,22165.32,Cash on Delivery,22165.32
+ORD10764,2025-11-03,C1115,Cricket Bat,Sports & Fitness,Pune,1,2407.1,Cash on Delivery,2407.1
+ORD10666,2025-11-03,C1121,Sports Shoes,Clothing,Chennai,1,3483.92,UPI,3483.92
+ORD10561,2025-11-03,C1059,Sports Shoes,Clothing,Delhi,2,3358.8,Credit Card,6717.6
+ORD10394,2025-11-04,C1056,Mixer Grinder,Home & Kitchen,Bengaluru,1,3139.09,Wallet,3139.09
+ORD10696,2025-11-04,C1197,Jeans,Clothing,Pune,3,1801.27,Debit Card,5403.81
+ORD10176,2025-11-04,C1030,Jeans,Clothing,,3,1878.28,UPI,5634.84
+ORD10249,2025-11-04,C1268,Winter Jacket,Clothing,,1,3348.75,UPI,3348.75
+ORD10361,2025-11-04,C1279,Laptop,Electronics,Pune,1,56891.86,Credit Card,56891.86
+ORD11163,2025-11-04,C1050,Moisturizer,Beauty,Mumbai,8,448.06,UPI,3584.48
+ORD10972,2025-11-04,C1099,Face Wash,Beauty,Ahmedabad,4,234.27,Cash on Delivery,937.08
+ORD10658,2025-11-04,C1267,Smartphone,Electronics,Delhi,1,19462.17,UPI,19462.17
+ORD10964,2025-11-05,C1254,Winter Jacket,Clothing,Mumbai,2,3522.3,Debit Card,7044.6
+ORD10332,2025-11-05,C1025,Women's Kurti,Clothing,Mumbai,1,861.93,Credit Card,861.93
+ORD10183,2025-11-05,C1121,Wireless Earbuds,Electronics,Chennai,1,3279.97,Cash on Delivery,3279.97
+ORD10796,2025-11-06,C1074,Cookware Set,Home & Kitchen,Delhi,2,2732.44,UPI,5464.88
+ORD11080,2025-11-07,C1190,Men's T-Shirt,Clothing,Ahmedabad,1,561.02,Wallet,561.02
+ORD10442,2025-11-07,C1136,Dumbbell Set,Sports & Fitness,Ahmedabad,1,2660.32,UPI,2660.32
+ORD10702,2025-11-07,C1107,Face Wash,Beauty,Mumbai,1,263.42,Debit Card,263.42
+ORD10157,2025-11-08,C1187,Backpack,Books & Stationery,Delhi,1,1296.85,UPI,1296.85
+ORD10122,2025-11-08,C1030,Saree,Clothing,Kolkata,1,2773.32,Credit Card,2773.32
+ORD10233,2025-11-08,C1293,Cookware Set,Home & Kitchen,Delhi,1,2991.25,Wallet,2991.25
+ORD10314,2025-11-08,C1219,Novel,Books & Stationery,Bengaluru,1,344.38,UPI,344.38
+ORD10037,2025-11-08,C1216,Moisturizer,Beauty,Delhi,4,444.7,Credit Card,1778.8
+ORD11161,2025-11-09,C1156,Men's T-Shirt,Clothing,Mumbai,2,622.83,UPI,1245.66
+ORD10877,2025-11-09,C1161,Face Wash,Beauty,Jaipur,3,272.43,UPI,817.29
+ORD10164,2025-11-09,C1083,Bluetooth Speaker,Electronics,Delhi,3,2485.57,Credit Card,7456.71
+ORD10213,2025-11-09,C1083,Dumbbell Set,Sports & Fitness,Delhi,2,2570.62,Debit Card,5141.24
+ORD11182,2025-11-10,C1203,Women's Kurti,Clothing,Delhi,2,887.6,Debit Card,1775.2
+ORD10056,2025-11-10,C1222,Winter Jacket,Clothing,Chennai,2,3720.51,UPI,7441.02
+ORD10740,2025-11-10,C1121,Jeans,Clothing,Chennai,2,1814.61,Debit Card,3629.22
+ORD10144,2025-11-10,C1068,Bedsheet Set,Home & Kitchen,Delhi,1,1605.89,Cash on Delivery,1605.89
+ORD10075,2025-11-10,C1046,Vacuum Cleaner,Home & Kitchen,Bengaluru,1,7127.56,UPI,7127.56
+ORD10938,2025-11-10,C1222,Cookware Set,Home & Kitchen,Chennai,2,2717.27,Credit Card,5434.54
+ORD10266,2025-11-10,C1170,Men's T-Shirt,Clothing,Mumbai,3,572.47,Cash on Delivery,1717.41
+ORD10837,2025-11-10,C1016,Face Wash,Beauty,Hyderabad,1,255.47,UPI,255.47
+ORD10911,2025-11-10,C1170,Novel,Books & Stationery,Mumbai,1,328.19,UPI,328.19
+ORD10979,2025-11-11,C1140,Bedsheet Set,Home & Kitchen,Bengaluru,2,1453.13,Wallet,2906.26
+ORD10034,2025-11-11,C1005,Moisturizer,Beauty,Lucknow,2,493.66,Credit Card,987.32
+ORD10120,2025-11-11,C1042,Novel,Books & Stationery,Chennai,8,383.48,Credit Card,3067.84
+ORD10845,2025-11-11,C1044,Makeup Kit,Beauty,Pune,5,2383.49,Cash on Delivery,11917.45
+ORD10600,2025-11-12,C1256,Smartphone,Electronics,Pune,1,17564.41,UPI,17564.41
+ORD10155,2025-11-12,C1274,Wireless Earbuds,Electronics,Chennai,3,3402.34,UPI,10207.02
+ORD10391,2025-11-12,C1102,Water Bottle,Home & Kitchen,Mumbai,3,438.29,Net Banking,1314.87
+ORD10437,2025-11-12,C1086,Notebook Pack,Books & Stationery,Chennai,2,203.92,Credit Card,407.84
+ORD10910,2025-11-13,C1163,Wireless Earbuds,Electronics,Delhi,2,3393.33,Credit Card,6786.66
+ORD10823,2025-11-13,C1216,Water Bottle,Home & Kitchen,Delhi,6,476.64,Cash on Delivery,2859.84
+ORD10449,2025-11-13,C1066,Water Bottle,Home & Kitchen,Hyderabad,5,461.71,Credit Card,2308.55
+ORD11061,2025-11-14,C1084,Yoga Mat,Sports & Fitness,Delhi,3,819.92,Cash on Delivery,2459.76
+ORD10649,2025-11-14,C1063,Office Chair,Books & Stationery,,1,6760.26,Net Banking,6760.26
+ORD10151,2025-11-14,C1147,Bedsheet Set,Home & Kitchen,Hyderabad,1,1390.43,UPI,1623.67
+ORD10718,2025-11-14,C1043,Notebook Pack,Books & Stationery,Mumbai,1,191.35,Cash on Delivery,191.35
+ORD11169,2025-11-14,C1082,Jeans,Clothing,Pune,1,1913.12,UPI,1913.12
+ORD10488,2025-11-14,C1048,Men's T-Shirt,Clothing,Chennai,1,595.21,Debit Card,595.21
+ORD10197,2025-11-14,C1231,Laptop,Electronics,Bengaluru,2,56975.69,Debit Card,113951.38
+ORD10973,2025-11-14,C1163,Air Fryer,Home & Kitchen,Delhi,5,5787.36,Cash on Delivery,28936.8
+ORD10828,2025-11-14,C1150,Jeans,Clothing,,1,1795.58,Debit Card,1795.58
+ORD10960,2025-11-14,C1115,Wireless Earbuds,Electronics,Pune,1,3392.21,Debit Card,3392.21
+ORD10812,2025-11-14,C1055,Dumbbell Set,Sports & Fitness,Kolkata,1,2322.66,Credit Card,2322.66
+ORD10428,2025-11-15,C1043,Water Bottle,Home & Kitchen,Mumbai,3,414.2,Debit Card,1242.6
+ORD11020,2025-11-15,C1052,Smart Watch,Electronics,Kolkata,2,8485.08,Credit Card,16970.16
+ORD10072,2025-11-15,C1067,Winter Jacket,Clothing,Mumbai,1,3589.16,Net Banking,3589.16
+ORD10015,2025-11-15,C1199,Backpack,Books & Stationery,Mumbai,5,1408.02,Net Banking,7040.1
+ORD10623,2025-11-15,C1129,Hair Dryer,Beauty,Hyderabad,1,1436.36,Cash on Delivery,1436.36
+ORD10716,2025-11-15,C1288,Tablet,Electronics,Hyderabad,2,23932.59,Net Banking,47865.18
+ORD10405,2025-11-16,C1099,Cookware Set,Home & Kitchen,,1,2723.34,UPI,2723.34
+ORD10469,2025-11-16,C1201,Perfume,Beauty,Lucknow,5,1960.52,Cash on Delivery,9802.6
+ORD10801,2025-11-16,C1263,Mixer Grinder,Home & Kitchen,Delhi,3,3278.47,Credit Card,9835.41
+ORD10079,2025-11-16,C1253,Wireless Earbuds,Electronics,Mumbai,3,3442.6,Credit Card,10327.8
+ORD10298,2025-11-17,C1263,Sports Shoes,Clothing,Delhi,1,3228.69,Net Banking,3228.69
+ORD11118,2025-11-17,C1241,Water Bottle,Home & Kitchen,Kolkata,6,449.65,UPI,2697.9
+ORD11158,2025-11-17,C1280,Water Bottle,Home & Kitchen,Delhi,5,427.73,UPI,2138.65
+ORD10781,2025-11-17,C1098,Laptop,Electronics,Delhi,2,57870.89,Debit Card,115741.78
+ORD11137,2025-11-18,C1033,Sports Shoes,Clothing,Bengaluru,1,3270.82,Net Banking,3270.82
+ORD10707,2025-11-18,C1235,Dumbbell Set,Sports & Fitness,Kolkata,1,2728.32,UPI,2728.32
+ORD10260,2025-11-18,C1050,Novel,Books & Stationery,Mumbai,10,352.8,UPI,3528.0
+ORD10567,2025-11-18,C1273,Smartphone,Electronics,Hyderabad,1,16656.66,Credit Card,16656.66
+ORD10492,2025-11-18,C1153,Cricket Bat,Sports & Fitness,Hyderabad,2,2106.11,UPI,4212.22
+ORD10744,2025-11-19,C1123,Cookware Set,Home & Kitchen,Bengaluru,1,2892.07,Debit Card,2892.07
+ORD11154,2025-11-19,C1215,Winter Jacket,Clothing,Kolkata,2,3620.48,Credit Card,7240.96
+ORD10915,2025-11-19,C1189,Cookware Set,Home & Kitchen,Mumbai,1,2917.66,Credit Card,2917.66
+ORD10318,2025-11-20,C1216,Air Fryer,Home & Kitchen,Delhi,1,5092.61,UPI,5092.61
+ORD11095,2025-11-20,C1272,Wireless Earbuds,Electronics,Delhi,3,3228.89,Wallet,9686.67
+ORD11170,2025-11-20,C1229,Laptop,Electronics,Delhi,2,58786.85,Wallet,117573.7
+ORD10908,2025-11-20,C1218,Cookware Set,Home & Kitchen,Ahmedabad,3,2891.89,Debit Card,8675.67
+ORD10439,2025-11-20,C1136,Laptop,Electronics,Ahmedabad,3,58640.69,UPI,175922.07
+ORD10433,2025-11-20,C1050,Winter Jacket,Clothing,Mumbai,1,3492.36,Credit Card,3492.36
+ORD11005,2025-11-20,C1089,Tablet,Electronics,Bengaluru,4,23858.77,Credit Card,95435.08
+ORD11042,2025-11-21,C1216,Women's Kurti,Clothing,Delhi,3,959.05,UPI,2877.15
+ORD10560,2025-11-21,C1133,Cookware Set,Home & Kitchen,Mumbai,1,2737.33,Net Banking,2737.33
+ORD10476,2025-11-21,C1201,Winter Jacket,Clothing,Lucknow,1,3489.52,Cash on Delivery,3489.52
+ORD10900,2025-11-22,C1046,Sports Shoes,Clothing,Bengaluru,3,3135.49,UPI,9406.47
+ORD10368,2025-11-22,C1278,Women's Kurti,Clothing,Pune,5,916.58,Wallet,4582.9
+ORD10202,2025-11-22,C1216,Smart Watch,Electronics,Delhi,1,8425.27,Credit Card,8425.27
+ORD10263,2025-11-22,C1203,Bluetooth Speaker,Electronics,Delhi,1,2570.95,UPI,2570.95
+ORD11087,2025-11-22,C1162,Sports Shoes,Clothing,Mumbai,3,3171.1,UPI,9513.3
+ORD10486,2025-11-22,C1295,Mixer Grinder,Home & Kitchen,Jaipur,1,3505.28,Net Banking,3505.28
+ORD10651,2025-11-23,C1002,Cookware Set,Home & Kitchen,Pune,1,3039.38,Debit Card,3039.38
+ORD10738,2025-11-23,C1200,Novel,Books & Stationery,Kolkata,10,342.54,Cash on Delivery,3425.4
+ORD10108,2025-11-23,C1292,Vacuum Cleaner,Home & Kitchen,Ahmedabad,5,6607.69,UPI,33038.45
+ORD10550,2025-11-23,C1237,Tablet,Electronics,Kolkata,4,22693.92,Credit Card,90775.68
+ORD10220,2025-11-23,C1109,Men's T-Shirt,Clothing,Jaipur,2,589.68,Debit Card,1179.36
+ORD10217,2025-11-24,C1145,Men's T-Shirt,Clothing,Mumbai,1,606.26,Credit Card,606.26
+ORD10204,2025-11-24,C1065,Air Fryer,Home & Kitchen,Hyderabad,2,5993.14,Credit Card,11986.28
+ORD10593,2025-11-24,C1095,Cricket Bat,Sports & Fitness,Chennai,2,2282.07,UPI,4564.14
+ORD10544,2025-11-24,C1121,Office Chair,Books & Stationery,Chennai,1,6515.0,UPI,6515.0
+ORD10907,2025-11-24,C1050,Wireless Earbuds,Electronics,Mumbai,1,3601.77,UPI,3601.77
+ORD10527,2025-11-24,C1082,Bluetooth Speaker,Electronics,Pune,1,2393.32,Credit Card,2393.32
+ORD10635,2025-11-24,C1099,Sports Shoes,Clothing,Ahmedabad,2,3287.78,Cash on Delivery,6575.56
+ORD10132,2025-11-24,C1187,Novel,Books & Stationery,Delhi,2,362.84,Debit Card,725.68
+ORD10575,2025-11-25,C1074,Dumbbell Set,Sports & Fitness,Delhi,3,2586.16,UPI,7758.48
+ORD10258,2025-11-25,C1026,Makeup Kit,Beauty,Bengaluru,2,2138.07,Cash on Delivery,4276.14
+ORD10883,2025-11-25,C1082,Office Chair,Books & Stationery,Pune,2,6940.84,UPI,13881.68
+ORD10924,2025-11-25,C1006,Laptop,Electronics,Kolkata,2,56286.27,Debit Card,112572.54
+ORD10667,2025-11-25,C1252,Men's T-Shirt,Clothing,Bengaluru,3,612.01,Credit Card,1836.03
+ORD10417,2025-11-25,C1257,Wireless Earbuds,Electronics,Delhi,1,3715.68,UPI,3715.68
+ORD10432,2025-11-26,C1147,Bluetooth Speaker,Electronics,Hyderabad,2,2544.51,UPI,5089.02
+ORD10871,2025-11-26,C1289,Men's T-Shirt,Clothing,Delhi,4,644.37,Credit Card,2577.48
+ORD10789,2025-11-26,C1231,Sports Shoes,Clothing,Bengaluru,3,3286.48,UPI,9859.44
+ORD10703,2025-11-26,C1018,Perfume,Beauty,Pune,1,1745.79,Debit Card,1745.79
+ORD10247,2025-11-26,C1255,Backpack,Books & Stationery,Kolkata,2,1442.33,UPI,2884.66
+ORD10119,2025-11-26,C1035,Winter Jacket,Clothing,Delhi,5,3400.21,Debit Card,17001.05
+ORD11181,2025-11-26,C1075,Hair Dryer,Beauty,Mumbai,1,1616.14,UPI,1616.14
+ORD10491,2025-11-26,C1066,Vacuum Cleaner,Home & Kitchen,Hyderabad,1,6752.74,UPI,6752.74
+ORD10873,2025-11-26,C1130,Jeans,Clothing,Delhi,2,1768.65,Cash on Delivery,3537.3
+ORD11146,2025-11-26,C1284,Men's T-Shirt,Clothing,Hyderabad,1,555.95,UPI,555.95
+ORD10310,2025-11-27,C1117,Laptop,Electronics,Chennai,1,58714.62,Debit Card,58714.62
+ORD10443,2025-11-27,C1299,Novel,Books & Stationery,Chennai,1,372.78,Net Banking,372.78
+ORD10852,2025-11-27,C1212,Jeans,Clothing,Mumbai,1,1765.17,Net Banking,1765.17
+ORD10692,2025-11-27,C1097,Dumbbell Set,Sports & Fitness,Delhi,1,2465.81,Net Banking,2465.81
+ORD11145,2025-11-27,C1279,Women's Kurti,Clothing,Pune,2,877.95,UPI,1755.9
+ORD11012,2025-11-28,C1062,Cookware Set,Home & Kitchen,Hyderabad,3,2907.73,Credit Card,8723.19
+ORD10465,2025-11-28,C1076,Office Chair,Books & Stationery,Mumbai,2,6366.33,UPI,12732.66
+ORD11150,2025-11-29,C1273,Smart Watch,Electronics,Hyderabad,1,7393.35,Cash on Delivery,7393.35
+ORD10787,2025-11-29,C1130,Backpack,Books & Stationery,Delhi,3,1322.87,Debit Card,3968.61
+ORD10302,2025-11-29,C1086,Hair Dryer,Beauty,Chennai,3,1535.21,Cash on Delivery,4605.63
+ORD11162,2025-11-29,C1011,Treadmill,Sports & Fitness,Ahmedabad,1,32852.21,Debit Card,32852.21
+ORD10452,2025-11-29,C1121,Jeans,Clothing,Chennai,1,1682.87,UPI,1682.87
+ORD10136,2025-11-29,C1151,Smart Watch,Electronics,Jaipur,1,7644.64,Cash on Delivery,7644.64
+ORD10136,2025-11-29,C1151,Smart Watch,Electronics,Jaipur,1,7644.64,Cash on Delivery,7644.64
+ORD10760,2025-11-29,C1241,Laptop,Electronics,Kolkata,3,51278.75,Debit Card,153836.25
+ORD11107,2025-11-29,C1210,Moisturizer,Beauty,Chennai,2,461.68,Debit Card,923.36
+ORD10042,2025-11-29,C1222,Dumbbell Set,Sports & Fitness,Chennai,1,2409.62,UPI,2409.62
+ORD10039,2025-11-30,C1215,Hair Dryer,Beauty,Kolkata,1,1644.39,Credit Card,1644.39
+ORD10937,2025-11-30,C1221,Perfume,Beauty,Bengaluru,2,1871.98,UPI,3743.96
+ORD10168,2025-11-30,C1220,Perfume,Beauty,Mumbai,3,1739.47,UPI,5218.41
+ORD11044,2025-11-30,C1207,Smartphone,Electronics,Chennai,1,19276.13,Debit Card,19276.13
+ORD11032,2025-11-30,C1002,Women's Kurti,Clothing,Pune,1,914.18,Debit Card,914.18
+ORD10999,2025-11-30,C1064,Men's T-Shirt,Clothing,Chennai,2,598.31,Credit Card,1196.62
+ORD10902,2025-12-01,C1122,Winter Jacket,Clothing,Delhi,1,3650.32,UPI,3650.32
+ORD10142,2025-12-01,C1176,Air Fryer,Home & Kitchen,Bengaluru,5,5918.5,Net Banking,29592.5
+ORD10311,2025-12-02,C1132,Mixer Grinder,Home & Kitchen,Hyderabad,2,3411.88,UPI,6823.76
+ORD10080,2025-12-02,C1139,Winter Jacket,Clothing,Delhi,3,3691.76,UPI,11075.28
+ORD10305,2025-12-02,C1244,Saree,Clothing,Hyderabad,1,2699.97,UPI,2699.97
+ORD10294,2025-12-02,C1227,Tablet,Electronics,Hyderabad,1,22026.32,Debit Card,22026.32
+ORD10545,2025-12-03,C1043,Makeup Kit,Beauty,Mumbai,2,2164.72,UPI,4329.44
+ORD10227,2025-12-03,C1256,Water Bottle,Home & Kitchen,Pune,4,439.48,Credit Card,1757.92
+ORD10559,2025-12-03,C1058,Tablet,Electronics,Delhi,2,20912.0,UPI,41824.0
+ORD11151,2025-12-03,C1041,Smart Watch,Electronics,Pune,2,8506.41,UPI,17012.82
+ORD10757,2025-12-05,C1121,Tablet,Electronics,Chennai,1,23244.06,Cash on Delivery,23244.06
+ORD10194,2025-12-05,C1053,Office Chair,Books & Stationery,Chennai,1,7349.1,Credit Card,7349.1
+ORD10116,2025-12-05,C1090,Cricket Bat,Sports & Fitness,Delhi,2,2040.0,UPI,4080.0
+ORD11038,2025-12-06,C1113,Dumbbell Set,Sports & Fitness,Hyderabad,1,2578.09,Cash on Delivery,2578.09
+ORD10185,2025-12-06,C1070,Jeans,Clothing,Mumbai,2,1789.57,Credit Card,3579.14
+ORD10522,2025-12-06,C1241,Wireless Earbuds,Electronics,Kolkata,1,3546.83,Cash on Delivery,3546.83
+ORD11062,2025-12-06,C1121,Winter Jacket,Clothing,Chennai,3,3788.78,UPI,11366.34
+ORD10867,2025-12-07,C1140,Men's T-Shirt,Clothing,Bengaluru,3,585.93,Cash on Delivery,1757.79
+ORD10913,2025-12-07,C1231,Water Bottle,Home & Kitchen,Bengaluru,1,470.05,Credit Card,470.05
+ORD11082,2025-12-07,C1153,Laptop,Electronics,Hyderabad,2,57590.69,UPI,115181.38
+ORD10762,2025-12-08,C1196,Tablet,Electronics,Hyderabad,2,24011.1,Credit Card,48022.2
+ORD10612,2025-12-08,C1093,Notebook Pack,Books & Stationery,Bengaluru,2,193.33,UPI,386.66
+ORD10866,2025-12-08,C1040,Bluetooth Speaker,Electronics,Bengaluru,1,2485.02,Debit Card,2485.02
+ORD10485,2025-12-08,C1214,Women's Kurti,Clothing,Chennai,2,982.37,Debit Card,1964.74
+ORD10730,2025-12-08,C1082,Women's Kurti,Clothing,Pune,3,868.43,UPI,2605.29
+ORD10025,2025-12-09,C1077,Bedsheet Set,Home & Kitchen,Chennai,3,1588.69,Credit Card,4766.07
+ORD10640,2025-12-09,C1196,Yoga Mat,Sports & Fitness,Hyderabad,4,782.65,Credit Card,3130.6
+ORD10328,2025-12-10,C1121,Mixer Grinder,Home & Kitchen,Chennai,2,3106.74,UPI,6213.48
+ORD10956,2025-12-11,C1268,Vacuum Cleaner,Home & Kitchen,Delhi,2,6100.15,Debit Card,12200.3
+ORD11096,2025-12-11,C1270,Cricket Bat,Sports & Fitness,Delhi,1,2199.83,Wallet,2199.83
+ORD10003,2025-12-11,C1242,Yoga Mat,Sports & Fitness,Mumbai,3,850.29,Cash on Delivery,2550.87
+ORD10487,2025-12-11,C1148,Sports Shoes,Clothing,Bengaluru,1,3326.07,Debit Card,3326.07
+ORD10705,2025-12-12,C1273,Dumbbell Set,Sports & Fitness,Hyderabad,2,2595.99,Debit Card,5191.98
+ORD10998,2025-12-12,C1117,Jeans,Clothing,Chennai,1,1671.38,Cash on Delivery,1671.38
+ORD10199,2025-12-12,C1060,Men's T-Shirt,Clothing,Chennai,6,571.08,UPI,3426.48
+ORD10141,2025-12-12,C1225,Winter Jacket,Clothing,Ahmedabad,1,3452.64,Credit Card,3452.64
+ORD10720,2025-12-13,C1051,Tablet,Electronics,Delhi,2,22514.87,Credit Card,45029.74
+ORD10187,2025-12-13,C1262,Water Bottle,Home & Kitchen,Mumbai,3,494.21,UPI,1482.63
+ORD11105,2025-12-13,C1128,Backpack,Books & Stationery,Delhi,3,1391.48,UPI,4174.44
+ORD10736,2025-12-13,C1051,Cricket Bat,Sports & Fitness,Delhi,1,2168.08,UPI,2168.08
+ORD11113,2025-12-13,C1127,Smartphone,Electronics,Delhi,1,16810.95,UPI,16810.95
+ORD10923,2025-12-14,C1194,Cookware Set,Home & Kitchen,Delhi,5,2638.25,Credit Card,13191.25
+ORD10040,2025-12-14,C1173,Men's T-Shirt,Clothing,Ahmedabad,2,617.74,Credit Card,1235.48
+ORD10295,2025-12-15,C1121,Bluetooth Speaker,Electronics,Chennai,1,2710.99,Wallet,2710.99
+ORD11111,2025-12-15,C1249,Air Fryer,Home & Kitchen,Bengaluru,1,5631.67,UPI,5631.67
+ORD10552,2025-12-15,C1037,Hair Dryer,Beauty,Bengaluru,4,1606.82,UPI,6427.28
+ORD10778,2025-12-15,C1268,Saree,Clothing,Delhi,1,2861.97,UPI,2861.97
+ORD10048,2025-12-15,C1062,Women's Kurti,Clothing,Hyderabad,4,893.59,UPI,3574.36
+ORD10167,2025-12-16,C1119,Wireless Earbuds,Electronics,Hyderabad,1,3765.01,UPI,3765.01
+ORD10104,2025-12-16,C1023,Dumbbell Set,Sports & Fitness,Jaipur,2,2568.83,Credit Card,5137.66
+ORD10412,2025-12-16,C1155,Yoga Mat,Sports & Fitness,Chennai,3,816.18,Credit Card,2448.54
+ORD10320,2025-12-16,C1028,Treadmill,Sports & Fitness,Delhi,1,30019.01,Credit Card,30019.01
+ORD10357,2025-12-17,C1210,Women's Kurti,Clothing,Chennai,1,951.46,UPI,951.46
+ORD10097,2025-12-17,C1096,Mixer Grinder,Home & Kitchen,Mumbai,1,2969.44,Debit Card,2969.44
+ORD11043,2025-12-17,C1024,Hair Dryer,Beauty,Kolkata,1,1417.28,Net Banking,1417.28
+ORD10804,2025-12-17,C1219,Bluetooth Speaker,Electronics,Bengaluru,3,2370.39,Wallet,7111.17
+ORD10251,2025-12-17,C1216,Smartphone,Electronics,Delhi,1,16699.89,Cash on Delivery,16699.89
+ORD10863,2025-12-17,C1121,Mixer Grinder,Home & Kitchen,Chennai,2,2954.37,Credit Card,5908.74
+ORD11132,2025-12-17,C1050,Jeans,Clothing,Mumbai,2,1700.57,Debit Card,3401.14
+ORD10946,2025-12-18,C1076,Bedsheet Set,Home & Kitchen,Mumbai,1,1588.88,Credit Card,1588.88
+ORD10921,2025-12-18,C1149,Vacuum Cleaner,Home & Kitchen,Delhi,3,7015.41,Credit Card,21046.23
+ORD10739,2025-12-18,C1213,Hair Dryer,Beauty,Kolkata,2,1467.57,Credit Card,2935.14
+ORD11035,2025-12-18,C1190,Smart Watch,Electronics,Ahmedabad,5,8664.9,UPI,43324.5
+ORD10052,2025-12-18,C1042,Mixer Grinder,Home & Kitchen,Chennai,1,3194.31,Credit Card,3194.31
+ORD10281,2025-12-18,C1201,Bluetooth Speaker,Electronics,Lucknow,1,2524.37,Cash on Delivery,2524.37
+ORD10016,2025-12-19,C1192,Notebook Pack,Books & Stationery,Delhi,1,190.67,Credit Card,190.67
+ORD10927,2025-12-19,C1060,Women's Kurti,Clothing,Chennai,2,840.92,Wallet,1681.84
+ORD10195,2025-12-19,C1172,Tablet,Electronics,,2,22853.55,Credit Card,45707.1
+ORD10962,2025-12-19,C1041,Notebook Pack,Books & Stationery,Pune,10,200.63,Cash on Delivery,2006.3
+ORD11084,2025-12-19,C1195,Jeans,Clothing,Delhi,4,1858.06,UPI,7432.24
+ORD11084,2025-12-19,C1195,Jeans,Clothing,Delhi,4,1858.06,UPI,7432.24
+ORD10541,2025-12-19,C1130,Mixer Grinder,Home & Kitchen,Delhi,1,2984.69,UPI,2984.69
+ORD10694,2025-12-20,C1216,Vacuum Cleaner,Home & Kitchen,,1,6822.03,UPI,6822.03
+ORD10169,2025-12-20,C1012,Bedsheet Set,Home & Kitchen,Chennai,1,1446.34,Debit Card,1446.34
+ORD10271,2025-12-20,C1205,Face Wash,Beauty,Mumbai,2,262.33,Debit Card,524.66
+ORD10899,2025-12-20,C1172,Hair Dryer,Beauty,Mumbai,1,1520.65,Cash on Delivery,1520.65
+ORD10821,2025-12-20,C1076,Women's Kurti,Clothing,Mumbai,2,945.47,UPI,1890.94
+ORD11134,2025-12-20,C1024,Air Fryer,Home & Kitchen,Kolkata,1,5721.74,Wallet,5721.74
+ORD11006,2025-12-20,C1031,Office Chair,Books & Stationery,Ahmedabad,1,6927.2,Credit Card,6927.2
+ORD10347,2025-12-20,C1241,Smart Watch,Electronics,Kolkata,1,7962.32,Net Banking,7962.32
+ORD11083,2025-12-20,C1029,Tablet,Electronics,Chennai,2,22837.29,UPI,45674.58
+ORD10470,2025-12-21,C1224,Cookware Set,Home & Kitchen,Mumbai,1,2931.05,UPI,2931.05
+ORD10862,2025-12-21,C1216,Bluetooth Speaker,Electronics,,1,2536.09,UPI,2536.09
+ORD10462,2025-12-21,C1241,Water Bottle,Home & Kitchen,Kolkata,5,482.93,UPI,2414.65
+ORD10684,2025-12-21,C1076,Yoga Mat,Sports & Fitness,Mumbai,2,746.51,Net Banking,1493.02
+ORD10182,2025-12-21,C1132,Vacuum Cleaner,Home & Kitchen,Hyderabad,1,7058.37,Credit Card,7058.37
+ORD10800,2025-12-21,C1201,Treadmill,Sports & Fitness,Lucknow,1,32223.59,Net Banking,32223.59
+ORD10684,2025-12-21,C1076,Yoga Mat,Sports & Fitness,Mumbai,2,746.51,Net Banking,1493.02
+ORD10398,2025-12-22,C1138,Men's T-Shirt,Clothing,Kolkata,2,629.81,Cash on Delivery,1259.62
+ORD11175,2025-12-22,C1111,Yoga Mat,Sports & Fitness,Mumbai,3,815.27,Credit Card,2445.81
+ORD10244,2025-12-22,C1165,Women's Kurti,Clothing,Bengaluru,2,914.49,Credit Card,1828.98
+ORD11073,2025-12-22,C1056,Tablet,Electronics,Bengaluru,3,20820.49,Debit Card,62461.47
+ORD10947,2025-12-23,C1208,Bluetooth Speaker,Electronics,Delhi,3,2388.54,Wallet,7165.62
+ORD10349,2025-12-23,C1240,Smart Watch,Electronics,Pune,4,7717.04,UPI,30868.16
+ORD10200,2025-12-23,C1225,Dumbbell Set,Sports & Fitness,Ahmedabad,1,2728.37,Net Banking,2728.37
+ORD11144,2025-12-23,C1113,Wireless Earbuds,Electronics,Hyderabad,2,3655.8,Net Banking,7311.6
+ORD10997,2025-12-23,C1265,Men's T-Shirt,Clothing,Delhi,1,618.74,Credit Card,618.74
+ORD10339,2025-12-24,C1033,Cricket Bat,Sports & Fitness,Bengaluru,5,2265.67,UPI,11328.35
+ORD11165,2025-12-24,C1050,Laptop,Electronics,Mumbai,1,59924.84,UPI,59924.84
+ORD10171,2025-12-24,C1047,Treadmill,Sports & Fitness,Mumbai,2,31453.49,Net Banking,62906.98
+ORD10570,2025-12-24,C1255,Air Fryer,Home & Kitchen,Kolkata,1,5609.17,Debit Card,5609.17
+ORD10067,2025-12-25,C1094,Moisturizer,Beauty,Mumbai,3,463.41,Credit Card,1390.23
+ORD11031,2025-12-25,C1190,Laptop,Electronics,Ahmedabad,1,59970.81,Credit Card,59970.81
+ORD11064,2025-12-25,C1115,Bedsheet Set,Home & Kitchen,Pune,2,1381.04,Debit Card,2762.08
+ORD10215,2025-12-25,C1135,Yoga Mat,Sports & Fitness,Delhi,2,801.16,Credit Card,1602.32
+ORD10535,2025-12-25,C1027,Women's Kurti,Clothing,Delhi,3,919.94,Debit Card,2759.82
+ORD10123,2025-12-25,C1062,Treadmill,Sports & Fitness,,1,29642.61,UPI,29642.61
+ORD10218,2025-12-25,C1152,Saree,Clothing,Delhi,1,3007.16,UPI,3007.16
+ORD11123,2025-12-25,C1201,Laptop,Electronics,Lucknow,2,54375.76,UPI,108751.52
+ORD11128,2025-12-26,C1009,Bluetooth Speaker,Electronics,Bengaluru,1,2501.58,UPI,2501.58
+ORD10070,2025-12-26,C1256,Saree,Clothing,Pune,4,3035.99,Cash on Delivery,12143.96
+ORD11157,2025-12-27,C1224,Men's T-Shirt,Clothing,Mumbai,2,558.57,Cash on Delivery,1117.14
+ORD10188,2025-12-27,C1123,Vacuum Cleaner,Home & Kitchen,Bengaluru,1,6954.42,Wallet,6954.42
+ORD10002,2025-12-27,C1139,Tablet,Electronics,Delhi,3,20402.15,Credit Card,61206.45
+ORD10758,2025-12-27,C1156,Smartphone,Electronics,Mumbai,3,18556.12,Debit Card,55668.36
+ORD10936,2025-12-28,C1244,Men's T-Shirt,Clothing,Hyderabad,4,603.59,Credit Card,2414.36
+ORD11110,2025-12-28,C1293,Yoga Mat,Sports & Fitness,Delhi,1,806.37,UPI,806.37
+ORD10309,2025-12-28,C1266,Face Wash,Beauty,Mumbai,2,253.0,Net Banking,506.0
+ORD10467,2025-12-28,C1050,Jeans,Clothing,Mumbai,4,1746.12,UPI,6984.48
+ORD10264,2025-12-28,C1225,Tablet,Electronics,,1,20274.12,UPI,20274.12
+ORD10953,2025-12-28,C1157,Cricket Bat,Sports & Fitness,Chennai,1,2034.8,Wallet,2034.8
+ORD10245,2025-12-28,C1205,Treadmill,Sports & Fitness,Mumbai,1,29778.22,Credit Card,29778.22
+ORD11040,2025-12-28,C1271,Cricket Bat,Sports & Fitness,Delhi,2,2227.0,Cash on Delivery,4454.0
+ORD10616,2025-12-28,C1121,Cookware Set,Home & Kitchen,Chennai,1,3041.76,UPI,3041.76
+ORD10422,2025-12-29,C1015,Notebook Pack,Books & Stationery,Mumbai,1,208.91,Cash on Delivery,208.91
+ORD10926,2025-12-29,C1207,Bedsheet Set,Home & Kitchen,Chennai,4,1645.51,Cash on Delivery,6582.04
+ORD10460,2025-12-29,C1224,Sports Shoes,Clothing,Mumbai,3,3366.9,Cash on Delivery,10100.7
+ORD10226,2025-12-29,C1224,Men's T-Shirt,Clothing,Mumbai,1,561.69,Net Banking,561.69
+ORD10874,2025-12-29,C1008,Yoga Mat,Sports & Fitness,Delhi,3,863.94,UPI,2591.82
+ORD10797,2025-12-30,C1153,Cookware Set,Home & Kitchen,Hyderabad,1,2770.32,Wallet,2770.32
+ORD10599,2025-12-30,C1081,Smartphone,Electronics,Bengaluru,1,18095.01,Net Banking,18095.01
+ORD10436,2025-12-31,C1135,Smart Watch,Electronics,Delhi,1,7835.24,UPI,7835.24
+ORD10325,2025-12-31,C1228,Novel,Books & Stationery,Chennai,3,361.49,Credit Card,1084.47
+ORD11023,2025-12-31,C1287,Saree,Clothing,Bengaluru,1,2657.01,Cash on Delivery,2657.01
+ORD10077,2025-12-31,C1296,Air Fryer,Home & Kitchen,Lucknow,2,5739.3,Credit Card,11478.6
+ORD10605,2025-12-31,C1217,Backpack,Books & Stationery,Delhi,2,1299.73,UPI,2599.46
